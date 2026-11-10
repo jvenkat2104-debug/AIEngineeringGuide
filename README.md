@@ -2,25 +2,68 @@
 
 **Choose your branch. Make the most of engineering. Prepare for your career.**
 
-A developing community guide for Indian students and parents. It covers engineering broadly, including computing, electronics, electrical, mechanical and civil disciplines.
+Practical guides for Indian Intermediate/Class 11–12 students, parents and engineering students. The initiative covers engineering broadly, including computing, electronics, electrical, mechanical and civil disciplines.
 
-## Start reading
+## Choose your starting point
 
-- [Choose Your Engineering Branch](content/choose-your-branch/index.md): explore interests, compare courses and colleges, and make a shortlist.
-- [Your Engineering Roadmap](content/engineering-roadmap/index.md): plan learning, projects and career preparation during college.
-- [Project plan](PROJECT_PLAN.md): proposed structure, revision checklist and delivery phases.
-- [Existing PDFs](downloads/README.md): supplied draft editions.
+| Still deciding what to study? | Already studying engineering? |
+| --- | --- |
+| **[Choose Your Engineering Branch](content/choose-your-branch/index.md)** | **[Your Engineering Roadmap](content/engineering-roadmap/index.md)** |
+| Explore interests, understand subjects, try activities and compare colleges and costs. | Follow a year-wise learning path, understand systems, build projects and prepare for your next step. |
+| [Interest explorer](content/choose-your-branch/interests.md) · [College checklist](content/choose-your-branch/evaluate-colleges.md) · [Decision worksheet](content/choose-your-branch/shortlist.md) | [Year 1](content/engineering-roadmap/year-1/README.md) · [Year 2](content/engineering-roadmap/year-2/README.md) · [Year 3](content/engineering-roadmap/year-3/README.md) · [Year 4](content/engineering-roadmap/year-4/README.md) |
 
-## Current status
+## Engineering roadmap chapters
 
-Early draft; independent technical and student clarity reviews are pending. The branch-selection guide is available in Markdown. The detailed blueprint is preserved as a PDF and text transcription; modular editing is next. Planned folders contain explicit scope notes rather than completed lessons.
+| Chapter | What you can read now |
+| --- | --- |
+| [00 — Start here](content/engineering-roadmap/00-start-here/what-is-engineering.md) | Engineering mindset, how an app works, learning habits and a first project |
+| [01 — Core concepts](content/engineering-roadmap/01-core-concepts/architecture-and-system-design.md) | Architecture, software layers and data roles |
+| [02 — Branch guide](content/engineering-roadmap/02-branch-guide/branch-guide.md) | Foundations, practice and project evidence across pathways |
+| [03 — AI impact](content/engineering-roadmap/03-the-ai-impact/ai-advancements.md) | Applications, limitations and a practical development workflow |
+| [04 — Career exploration](content/engineering-roadmap/careers/README.md) | EV, renewable energy and chip-design connections |
+| [05 — Practical tools](content/engineering-roadmap/05-technical-grinding/application-logic.md) | Git, APIs, data formats and advanced telemetry design |
+| [06 — Industry exposure](content/engineering-roadmap/industry-exposure/README.md) | Learning plans for Hyderabad, Bengaluru and Chennai, with remote alternatives |
+| [Communication](content/engineering-roadmap/communication/communication-and-soft-skills.md) | Clear explanations, project presentations and internship communication |
+| [Checklists](content/engineering-roadmap/checklists/year-by-year.md) | Adaptable milestones for each year |
 
-Proposed website entrances are `/choose-your-branch/` and `/engineering-roadmap/`. No reading website has been deployed. Existing PDFs are imported drafts; automated PDF generation from the maintained content is planned.
+## How this repository is organised
 
-## Help improve the guide
+```text
+content/
+  choose-your-branch/       Short linked chapters and decision worksheets
+  engineering-roadmap/
+    00-start-here/          Mindset, systems and learning habits
+    01-core-concepts/      Architecture, software layers and data roles
+    02-branch-guide/       Branch foundations and practice
+    03-the-ai-impact/      AI applications and development workflow
+    04-growth-careers/     EV, renewable energy and chip design
+    05-technical-grinding/ Git, APIs, data and edge/cloud concepts
+    06-industry-tours/     Three city learning plans
+    communication/        Practice throughout the four years
+    checklists/           Year-wise milestones
+    year-1/ … year-4/      Reading paths through the chapters
+    branches/             Branch navigation
+    careers/              Career navigation
+    projects/             Project navigation
+    industry-exposure/    Industry-learning navigation
+  shared/                 Glossary and learning resources
+downloads/                Original supplied PDF editions
+archive/                  Raw source imports for traceability
+templates/                Contribution templates
+publishing/               Future PDF build arrangements
+site/                     Future reading website
+scripts/                  Future publishing helpers
+translations/             Translation planning
+```
 
-Read [CONTRIBUTING.md](CONTRIBUTING.md). Students can flag confusing material, and faculty and engineers can propose sourced corrections. Please label personal experiences clearly.
+## Downloads and source coverage
 
-## Licensing
+[Download the supplied draft PDFs](downloads/README.md). These preserve the original editions; they have not yet been regenerated from the edited chapters. [Source map](SOURCE_MAP.md) explains where the blueprint material now lives and which work remains.
 
-Licensing remains to be confirmed by the project owner. The imported blueprint proposes Apache 2.0, while the branch-selection draft leaves licensing open. No repository-wide licence is granted by that proposal. See [LICENSING.md](LICENSING.md).
+## Status and contribution
+
+The chapters are readable **drafts**, not independently reviewed guidance. Mechanical/Civil roadmap additions need specialist review. Advanced telemetry code remains in the source archive/PDF and is not claimed as tested. Named industry venues require current access checks.
+
+Read [CONTRIBUTING.md](CONTRIBUTING.md), use the [module template](templates/module.md), or propose a sourced correction through an issue. [Project plan](PROJECT_PLAN.md) records the broader scope. [Licensing remains pending](LICENSING.md).
+
+The proposed web routes are `/choose-your-branch/` and `/engineering-roadmap/`. No separate reading website is deployed yet.
