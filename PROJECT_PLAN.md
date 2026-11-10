@@ -148,7 +148,8 @@ AIEngineeringGuide/
   PROJECT_PLAN.md
   CONTRIBUTING.md
   CODE_OF_CONDUCT.md
-  LICENSE                         # Final licensing decision pending
+  LICENSE.md                      # Scope: content CC BY 4.0; code Apache 2.0
+  LICENSES/                       # Full licence texts
   .github/
     ISSUE_TEMPLATE/
       correction.yml
@@ -254,8 +255,8 @@ Stable public paths must not depend on the chosen site generator. Prefer a simpl
 - [ ] Give each module an audience, level, draft/reviewed status, sources and review date.
 - [ ] Name reviewers only with their agreement; mark Reviewed only after actual review.
 - [ ] Label personal experience separately from general advice.
-- [ ] Resolve the licensing mismatch: blueprint specifies Apache 2.0; selection draft leaves licensing open.
-- [ ] Confirm rights to source material and choose licences for prose and code explicitly.
+- [x] Resolve the licensing mismatch: owner approved CC BY 4.0 for content and Apache 2.0 for code on 10 November 2026.
+- [x] Owner confirmed authority to license the supplied guides and approved the split.
 - [ ] Avoid promising review turnaround times until maintainers agree they can meet them.
 - [ ] Define translation review and how translated pages track source updates.
 
@@ -287,10 +288,8 @@ The local prototype may contain clearly labelled drafts. A public launch should 
 
 ## 7. Decisions still open
 
-These do not prevent local content preparation:
+The public repository is owned by `jvenkat2104-debug`. Licensing is settled: see [LICENSE.md](LICENSE.md). The remaining decisions are:
 
-- GitHub account or organisation that will own the repository.
-- Written-content and code-example licences, including source ownership confirmation.
 - Initial maintainers, reviewers and a suitable community reporting contact.
 - Static site generator, PDF toolchain and final hosting URL.
 - Whether regional-language work starts with Telugu summaries and when it enters the release scope.

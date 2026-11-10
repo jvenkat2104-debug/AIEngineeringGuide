@@ -6,3 +6,8 @@ These are the originally supplied editions, not newly generated exports. Both aw
 - [Campus to Corporate blueprint, Version 4](Campus_to_Corporate_Blueprint.pdf)
 
 Future releases will generate PDFs from the same maintained content as the website.
+
+
+## Licensing
+
+The [current licensing policy](../LICENSE.md) applies to project-owned material here: CC BY 4.0 for prose and original illustrations; Apache 2.0 for code examples. Original editions are preserved unchanged, including historical licensing statements. Third-party material retains its own terms.

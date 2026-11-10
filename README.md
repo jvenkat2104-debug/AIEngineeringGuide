@@ -64,6 +64,6 @@ translations/             Translation planning
 
 The chapters are readable **drafts**, not independently reviewed guidance. Mechanical/Civil roadmap additions need specialist review. Advanced telemetry code remains in the source archive/PDF and is not claimed as tested. Named industry venues require current access checks.
 
-Read [CONTRIBUTING.md](CONTRIBUTING.md), use the [module template](templates/module.md), or propose a sourced correction through an issue. [Project plan](PROJECT_PLAN.md) records the broader scope. [Licensing remains pending](LICENSING.md).
+Read [CONTRIBUTING.md](CONTRIBUTING.md), use the [module template](templates/module.md), or propose a sourced correction through an issue. [Project plan](PROJECT_PLAN.md) records the broader scope. [Licensing: CC BY 4.0 for content; Apache 2.0 for code](LICENSE.md).
 
 The proposed web routes are `/choose-your-branch/` and `/engineering-roadmap/`. No separate reading website is deployed yet.

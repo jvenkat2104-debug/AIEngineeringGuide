@@ -6,4 +6,10 @@ Include the section, proposed change, reason, sources where relevant, and review
 
 Use the [module template](templates/module.md). Mark material Draft until a qualified reviewer actually checks it. Code examples need setup instructions, tested versions and meaningful verification. Be respectful of beginners and avoid branch or college stereotypes.
 
-Licensing is pending; contributors must own or have permission to share proposed material. Maintainers should settle contribution licensing before accepting external content for release.
+## Contribution licensing
+
+By intentionally submitting material for inclusion, you agree that your written content, worksheets, translations and original illustrations are contributed under **CC BY 4.0**, and code examples (including embedded code blocks), scripts and configuration under **Apache 2.0**, unless a different arrangement is explicitly agreed before acceptance. You retain copyright in your contributions; ownership is not transferred.
+
+Submit only material you own or have authority to license on these terms. Identify third-party material, preserve its notices, and state its licence. Linked resources retain their original terms.
+
+Read the [licensing policy](LICENSE.md) and full [CC BY 4.0](LICENSES/CC-BY-4.0.txt) and [Apache 2.0](LICENSES/Apache-2.0.txt) texts before contributing.

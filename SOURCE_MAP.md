@@ -18,7 +18,7 @@ This map records the editorial conversion of the original sources. All edited mo
 | Pages 16–17: tours | 06-industry-tours | Three plans with explicit access-verification requirement |
 | Pages 17–18: checklists | checklists/year-by-year.md and year paths | Reconstructed and made branch-adaptable |
 | Pages 18–19: resources | content/shared/resources.md | Selected links retained; current offers require checks |
-| Pages 19–22: contribution model | CONTRIBUTING, templates and issue templates | Module metadata and review expectations; licensing/contact/maintainer decisions remain open |
+| Pages 19–22: contribution model | CONTRIBUTING, templates and issue templates | Module metadata and review expectations; licensing agreed; contact/maintainer decisions remain open |
 | Pages 22–23: glossary | content/shared/glossary.md | Reconstructed and clarified |
 | Pages 23–24: launch posts | Archive and original PDF | Not published as student chapters or sent externally |
 | Branch-selection Markdown | content/choose-your-branch | Original sections separated into linked chapters; original preserved in archive |
@@ -30,6 +30,8 @@ This map records the editorial conversion of the original sources. All edited mo
 - Detailed Mechanical/Civil modules beyond introductory activities and pathway rows.
 - Additional branch profiles, translations and broader higher-study guidance.
 - Matching generated PDFs, reading website and publishing automation.
-- Agreed licensing, reporting contact and maintainers.
+- Reporting contact and maintainers.
+
+Licensing was settled on 10 November 2026: CC BY 4.0 for content and Apache 2.0 for code. See [LICENSE.md](LICENSE.md).
 
 Chapter paths in the table are relative to `content/engineering-roadmap/` unless otherwise stated. No Word/DOCX source has been supplied in this chat.

@@ -32,6 +32,6 @@ Status: first draft; independent branch reviews are pending. Students can report
 
 For each proposed change include the section, correction, reason, official source where relevant, and review date. Label personal experiences clearly. Do not include private student information, employer secrets, copied course material or promotional referrals. A maintainer should review changes before publication.
 
-The accompanying Markdown file is editable and can become repository content. The public repository is [AIEngineeringGuide](https://github.com/jvenkat2104-debug/AIEngineeringGuide). Maintainers, website publishing arrangements and a content licence still need confirmation. Public availability does not itself establish an open licence.
+The accompanying Markdown file is editable and can become repository content. The public repository is [AIEngineeringGuide](https://github.com/jvenkat2104-debug/AIEngineeringGuide). Maintainers and website publishing arrangements still need confirmation. Written content is licensed under CC BY 4.0 and code examples under Apache 2.0; see the [licensing policy](../../LICENSE.md).
 
 [Back to the guide](index.md) | [Already joined engineering? Start your roadmap](../engineering-roadmap/index.md)
