@@ -35,3 +35,7 @@ This map records the editorial conversion of the original sources. All edited mo
 Licensing was settled on 10 November 2026: CC BY 4.0 for content and Apache 2.0 for code. See [LICENSE.md](LICENSE.md).
 
 Chapter paths in the table are relative to `content/engineering-roadmap/` unless otherwise stated. No Word/DOCX source has been supplied in this chat.
+
+## Added after the original blueprint
+
+- Data Structures and Algorithms chapter under `01-core-concepts`, requested by the project owner: arrays, strings, linked lists, trees, graphs, sorting, searching and dynamic programming, with supporting prerequisites, practice and complexity. Linked from Years 1–3 and the checklists; independent review pending.

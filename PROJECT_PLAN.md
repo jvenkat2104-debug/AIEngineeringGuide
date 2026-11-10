@@ -65,6 +65,7 @@ The documents contain proposals, example code and draft launch posts. These are 
 **Year 2: strengthen foundations**
 
 - Branch fundamentals tied to practical exercises and lab work.
+- Data Structures and Algorithms: arrays, strings, linked lists, trees, graphs, sorting, searching and dynamic programming, supported by complexity, recursion, stacks, queues and hashing.
 - Version control and collaboration where relevant.
 - APIs, data formats, databases and software layers for relevant pathways.
 - Measurements, drawings, simulations and technical documentation for relevant pathways.

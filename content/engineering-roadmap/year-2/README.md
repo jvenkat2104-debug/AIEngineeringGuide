@@ -14,6 +14,10 @@ Show a branch-relevant project with reproducible steps, assumptions and meaningf
 4. [Git, APIs and data formats](../05-technical-grinding/application-logic.md)
 5. [Branch pathways](../02-branch-guide/branch-guide.md)
 
+## Data Structures and Algorithms
+
+Work through arrays, strings, linked lists, sorting, searching, trees, graphs and dynamic programming, with supporting stacks, queues and hashing. Follow the [DSA core chapter](../01-core-concepts/data-structures-and-algorithms.md).
+
 ## A practical study rhythm
 
 Read a foundational topic, practise it in a small project and inspect the result. For software pathways, connect an interface, service and data store. For physical pathways, connect calculations to a simulation or supervised measurement.

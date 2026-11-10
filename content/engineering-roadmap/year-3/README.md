@@ -15,6 +15,10 @@ Build two explainable pieces of work and make a targeted internship plan.
 5. [Renewable energy](../04-growth-careers/renewable-energy.md)
 6. [Chip design](../04-growth-careers/chip-design.md)
 
+## Data Structures and Algorithms
+
+Revisit trees, graphs and dynamic programming through project and role-relevant problems; explain correctness and complexity. Follow the [DSA core chapter](../01-core-concepts/data-structures-and-algorithms.md).
+
 ## A practical study rhythm
 
 Compare actual roles and prerequisites. Choose one direction to investigate for a semester. Write a project proposal, ask for feedback, and keep a record of applications and what you learn.

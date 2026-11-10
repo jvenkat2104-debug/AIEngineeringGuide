@@ -12,6 +12,8 @@ Use these as adaptable milestones, not a universal hiring checklist. Choose bran
 - [ ] Learn how to record changes and organise project files.
 - [ ] Explain one concept weekly and join a useful peer learning group.
 
+- [ ] For computing pathways, begin arrays, strings and simple search after programming basics.
+
 ## Year 2: connect foundations with tools
 
 - [ ] Build a branch-relevant project with recorded inputs, outputs and assumptions.
@@ -19,6 +21,8 @@ Use these as adaptable milestones, not a universal hiring checklist. Choose bran
 - [ ] Use relevant lab, simulation or programming tools and document versions/setup.
 - [ ] For software pathways, practise Git branches, APIs and stored data.
 - [ ] Write a short technical summary and get peer feedback.
+
+- [ ] For computing pathways, practise [DSA](../01-core-concepts/data-structures-and-algorithms.md): arrays, strings, linked lists, trees, graphs, sorting, searching and dynamic programming; explain correctness and complexity.
 
 ## Year 3: choose depth and gain experience
 

@@ -17,7 +17,7 @@ Practical guides for Indian Intermediate/Class 11–12 students, parents and eng
 | Chapter | What you can read now |
 | --- | --- |
 | [00 — Start here](content/engineering-roadmap/00-start-here/what-is-engineering.md) | Engineering mindset, how an app works, learning habits and a first project |
-| [01 — Core concepts](content/engineering-roadmap/01-core-concepts/architecture-and-system-design.md) | Architecture, software layers and data roles |
+| [01 — Core concepts](content/engineering-roadmap/01-core-concepts/architecture-and-system-design.md) | Architecture, software layers, data roles and [DSA](content/engineering-roadmap/01-core-concepts/data-structures-and-algorithms.md) |
 | [02 — Branch guide](content/engineering-roadmap/02-branch-guide/branch-guide.md) | Foundations, practice and project evidence across pathways |
 | [03 — AI impact](content/engineering-roadmap/03-the-ai-impact/ai-advancements.md) | Applications, limitations and a practical development workflow |
 | [04 — Career exploration](content/engineering-roadmap/careers/README.md) | EV, renewable energy and chip-design connections |
@@ -33,7 +33,7 @@ content/
   choose-your-branch/       Short linked chapters and decision worksheets
   engineering-roadmap/
     00-start-here/          Mindset, systems and learning habits
-    01-core-concepts/      Architecture, software layers and data roles
+    01-core-concepts/      Architecture, software layers, data roles and DSA
     02-branch-guide/       Branch foundations and practice
     03-the-ai-impact/      AI applications and development workflow
     04-growth-careers/     EV, renewable energy and chip design

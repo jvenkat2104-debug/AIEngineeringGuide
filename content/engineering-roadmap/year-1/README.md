@@ -13,6 +13,10 @@ Finish a small project, explain its parts and record what you learned from one f
 3. [Learning habits and first project](../00-start-here/year-1-habits.md)
 4. [Communication practice](../communication/communication-and-soft-skills.md)
 
+## Data Structures and Algorithms
+
+After programming basics, begin arrays, strings and simple searching. Follow the [DSA core chapter](../01-core-concepts/data-structures-and-algorithms.md).
+
 ## A practical study rhythm
 
 Choose a topic from this week’s classes. Spend two short sessions trying an example and one session explaining it. Keep the scope small enough to finish alongside coursework.

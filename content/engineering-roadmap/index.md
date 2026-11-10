@@ -16,7 +16,7 @@ Start at your year, then use the chapters to fill gaps and explore a branch. Lat
 ## Read by chapter
 
 1. **Start here:** [Engineering mindset](00-start-here/what-is-engineering.md), [How an app works](00-start-here/how-an-app-works.md), [Year 1 habits](00-start-here/year-1-habits.md).
-2. **Core concepts:** [Architecture and design](01-core-concepts/architecture-and-system-design.md), [Software layers](01-core-concepts/layers-of-software.md), [Data roles](01-core-concepts/data-roles.md).
+2. **Core concepts:** [Architecture and design](01-core-concepts/architecture-and-system-design.md), [Software layers](01-core-concepts/layers-of-software.md), [Data roles](01-core-concepts/data-roles.md), [Data Structures and Algorithms](01-core-concepts/data-structures-and-algorithms.md).
 3. **Branch guide:** [Foundations, practice and project evidence](02-branch-guide/branch-guide.md).
 4. **AI impact:** [Applications and limitations](03-the-ai-impact/ai-advancements.md), [Development workflow](03-the-ai-impact/modern-developer-workflow.md).
 5. **Career exploration:** [EV](04-growth-careers/ev.md), [Renewable energy](04-growth-careers/renewable-energy.md), [Chip design](04-growth-careers/chip-design.md).
