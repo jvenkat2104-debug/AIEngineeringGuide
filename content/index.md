@@ -72,3 +72,8 @@ Plain-language guidance for students and families—from understanding engineeri
 This is a community draft. Independent technical and student clarity reviews are pending. Dated opportunities and job examples are snapshots; check official sources before acting. There are no placement or salary guarantees.
 
 [About this guide](about.md) · [Help improve a page](contribute.md) · [Download the original PDF editions](../downloads/README.md)
+
+
+## Looking for your first opportunity?
+
+Use [Internships & Fresher Opportunities](engineering-roadmap/03-the-ai-impact/job-market-snapshot.md) for a small dated list with eligibility and official application links. Availability can change between checks.

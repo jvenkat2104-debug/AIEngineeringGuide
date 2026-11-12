@@ -18,7 +18,7 @@ Start at your year, then use the chapters to fill gaps and explore a branch. Lat
 1. **Start here:** [Engineering mindset](00-start-here/what-is-engineering.md), [How an app works](00-start-here/how-an-app-works.md), [Year 1 habits](00-start-here/year-1-habits.md).
 2. **Core concepts:** [Architecture and design](01-core-concepts/architecture-and-system-design.md), [Software layers](01-core-concepts/layers-of-software.md), [Data roles](01-core-concepts/data-roles.md), [Data Structures and Algorithms](01-core-concepts/data-structures-and-algorithms.md).
 3. **Branch guide:** [Foundations, practice and project evidence](02-branch-guide/branch-guide.md).
-4. **[AI, Data and Career Pathways](03-the-ai-impact/index.md):** AI/ML, data integration, MLOps, roles, [job-market evidence](03-the-ai-impact/job-market-snapshot.md), learning paths and a connected canteen project.
+4. **[AI, Data and Career Pathways](03-the-ai-impact/index.md):** AI/ML, data integration, MLOps, roles, [job-market evidence](03-the-ai-impact/job-market-evidence.md), learning paths and a connected canteen project.
 5. **Career exploration:** [EV](04-growth-careers/ev.md), [Renewable energy](04-growth-careers/renewable-energy.md), [Chip design](04-growth-careers/chip-design.md).
 6. **Practical tools:** [Git, APIs and data formats](05-technical-grinding/application-logic.md), [Edge and cloud](05-technical-grinding/edge-and-cloud-core.md).
 7. **Industry exposure:** [Hyderabad](06-industry-tours/hyderabad.md), [Bengaluru](06-industry-tours/bengaluru.md), [Chennai](06-industry-tours/chennai.md).

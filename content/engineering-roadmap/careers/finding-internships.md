@@ -28,3 +28,8 @@ Use a concise resume and one relevant project. Explain your own contribution and
 During the internship, agree on a deliverable, seek feedback and document what you learned. Publish only material you have permission to share.
 
 [Year 3 roadmap](../year-3/README.md) | [Communication practice](../communication/communication-and-soft-skills.md)
+
+
+## Checked student opportunities
+
+See [Internships & Fresher Opportunities](../03-the-ai-impact/job-market-snapshot.md). Recheck the official listing and your eligibility before applying.

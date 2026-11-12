@@ -35,7 +35,7 @@ Complete one stage of the [canteen project](canteen-data-to-ai-project.md), get 
 
 ## Review your readiness
 
-Can you explain every component, reproduce the result, identify a realistic failure and match your evidence to a role’s requirements? Use [job-market evidence](job-market-snapshot.md) to refine the plan, not to infer that every advertised tool is mandatory.
+Can you explain every component, reproduce the result, identify a realistic failure and match your evidence to a role’s requirements? Use [job-market evidence](job-market-evidence.md) to refine the plan, not to infer that every advertised tool is mandatory.
 
 ## Learning references
 

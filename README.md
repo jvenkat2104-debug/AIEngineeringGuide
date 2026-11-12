@@ -78,3 +78,8 @@ The website uses `/choose-your-branch/` and `/engineering-roadmap/` beneath the 
 [Scholarships](content/shared/scholarships.md) · [Virtual labs](content/shared/virtual-labs.md) · [Internships](content/engineering-roadmap/careers/finding-internships.md) · [Regional-language resources](content/shared/resources.md) · [Project environments](content/shared/project-environments.md)
 
 [Today’s review](reviews/2026-11-12.md) records sources, changes and verification limits.
+
+
+## Internships and fresher opportunities
+
+The [checked opportunity page](https://jvenkat2104-debug.github.io/engineering-roadmap/03-the-ai-impact/job-market-snapshot/) now lists student/fresher application pointers. The original [market evidence](content/engineering-roadmap/03-the-ai-impact/job-market-evidence.md) remains a separate reference.

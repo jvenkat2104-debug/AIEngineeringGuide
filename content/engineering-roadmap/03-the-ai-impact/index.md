@@ -15,7 +15,8 @@ AI is one part of a working system. Students also need to understand the data en
 | [3. MLOps and operating AI](mlops-and-operating-ai.md) | Explain testing, releases, monitoring and recovery |
 | [4. AI’s impact on data work](ai-impact-on-data-work.md) | Separate useful assistance from unchecked automation |
 | [5. Roles and entry routes](roles-and-entry-routes.md) | Compare responsibilities and choose a starting direction |
-| [6. Job-market evidence](job-market-snapshot.md) | Read a dated, limited employer-posting sample critically |
+| [Internships & fresher opportunities](job-market-snapshot.md) | Check student openings, eligibility and official application links |
+| [6. Job-market evidence](job-market-evidence.md) | Read a dated, limited employer-posting sample critically |
 | [7. Student learning paths](student-learning-paths.md) | Choose milestones and evidence rather than a tool shopping list |
 | [8. Canteen project](canteen-data-to-ai-project.md) | Design a connected data-to-prediction system in manageable stages |
 

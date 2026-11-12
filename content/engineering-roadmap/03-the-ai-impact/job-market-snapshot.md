@@ -1,46 +1,97 @@
-# Job-market evidence: AI, data and operations
+# Internships & Fresher Opportunities
 
-Status: Draft | Independent review pending
-Checked: **12 November 2026** | Next review target: 19 November 2026
-Scope: four readable employer role pages for India; an illustrative, deliberately selected sample, not an Indian job-market survey
+**Last checked: 12 November 2026** · Next review target: 19 November 2026
 
-## What this snapshot can tell you
+A small, manually checked list for students and fresh graduates. **Accepting applications when checked** means the official role page and application entry were available on the date above. It is not a guarantee the employer is still accepting applicants now, that you meet every condition, or that selection is likely.
 
-The sampled roles show how employers describe data work and its connections to AI. They do not establish national demand, hiring growth, salary ranges or the probability of a graduate being hired. We did not verify recruiter responses, completed applications or whether every visible page is still accepting candidates.
+After **19 November 2026**, treat these listings as **needs recheck** until their verification dates are refreshed. Check the linked employer page before preparing an application. We do not collect resumes or applications, charge placement fees or act as a recruitment agency.
 
-Selected through searches for India Data Engineering, ML and MLOps work, the sample favours accessible large-employer pages and data-oriented roles. It is not balanced across employers, cities or specialisms. There are **four role pages from four employers**, with **no verified internship or explicit zero-experience graduate role** in the included sample. That absence is a sample limitation, not evidence that such roles do not exist.
+## At a glance
 
-## Experienced and experience-requiring positions
+| Opportunity | Category | Location / mode | Checked status |
+| --- | --- | --- | --- |
+| [Amazon: Data Engineer Intern – 2027](#amazon-data-engineer-intern-2027) | Student internship | Multiple India cities; full-time commitment | Accepting applications when checked, 12 Nov |
+| [Amazon: Programmer Analyst Intern – 2027](#amazon-programmer-analyst-intern-2027) | Student internship | India, including Hyderabad; full-time commitment | Accepting applications when checked, 12 Nov |
+| [HackerRank: Software Development Engineer Intern](#hackerrank-software-development-engineer-intern) | Paid internship | Bengaluru, on-site | Accepting applications when checked, 12 Nov |
+| [HackerRank: Customer Experience Engineer, L1](#hackerrank-customer-experience-engineer-l1) | Fresher-eligible / early career | Bengaluru, hybrid with shifts | Accepting applications when checked, 12 Nov |
 
-| Employer and role | Location | Stated experience/qualification | Selected skill signals | Student interpretation |
-| --- | --- | --- | --- | --- |
-| [Amazon — Data Engineer I, SPIV; 10597397](https://amazon.jobs/en/jobs/10597397/data-engineer-i-spiv-data-engineering) | Bengaluru | At least one year of data engineering; reviewed excerpt does not establish a graduate route | SQL, modelling, warehousing, ETL and scripting; data quality and monitoring | “Engineer I” does not mean no experience |
-| [Amgen — Associate Data Engineer; R-256205](https://careers.amgen.com/en/job/hyderabad/associate-data-engineer/87/102473130208) | Hyderabad | Three to five years with a relevant bachelor's or equivalent practical experience; posted 26 October 2026 | Python, PySpark, Databricks, SQL, quality checks and ML-input preparation | “Associate” can be an experienced role |
-| [BlackRock — Data Engineer, Aladdin Data, Associate; R266920](https://careers.blackrock.com/job/mumbai/data-engineer-aladdin-data-associate/45831/102892167824) | Mumbai | At least four years; relevant bachelor's or equivalent practical experience | Python, SQL, Snowflake, orchestration, testing, production support and governed AI assistance | Reliable integration and operations remain explicit work |
-| [McKinsey — Senior Data Engineer I, QuantumBlack; 104404](https://www.mckinsey.com/careers/search-jobs/jobs/seniordataengineeri-quantumblackaibymckinsey-104404) | Bengaluru / Gurugram | Four or more relevant years and a relevant bachelor's | Data/ML pipelines, MLOps/LLMOps, cloud, delivery automation and observability | Data Engineering and AI operations can overlap in senior work |
+This first list covers software, data and technical customer engineering from **two employers**. It is not a complete jobs portal or a balanced sample across branches. No beginner MLOps or core-branch vacancy is claimed verified in this edition. [Suggest an opportunity](https://github.com/jvenkat2104-debug/jvenkat2104-debug.github.io/issues/new?template=opportunity.md) with a direct official source.
 
-Where a posting date or application deadline was not established, it is not supplied here. Reopen the employer page before making any application decision.
+## Student internships
 
-## Internships and graduate routes: separate evidence needed
+### Amazon: Data Engineer Intern – 2027
 
-Do not use the experienced-role table as a list of fresher opportunities. Look separately for named graduate programmes, internships and explicit early-career eligibility using the [internship guide](../careers/finding-internships.md). Record enrolled-degree rules, graduation year, location, duration, deadline and costs/stipend from the actual notice.
+- **Requisition:** 10496769.
+- **Work:** data pipelines, SQL, data modelling and integration.
+- **Eligibility:** the detailed description specifies final-year bachelor's or master's students in Computer Science, Engineering or a related field, with SQL/programming and data fundamentals. A separate generic qualification block is broader; confirm that the detailed final-year condition applies to you. The title names 2027, but an exact graduation window is not stated in the reviewed text.
+- **Location / mode:** Bengaluru, Greater Noida, Hyderabad and Chennai are listed. Full-time availability and a university-signed availability declaration are required; remote eligibility is not stated.
+- **Stipend:** not disclosed on the reviewed page. **Duration:** not established. **Application deadline:** not stated.
+- **Last checked:** 12 November 2026; role description and Apply entry present. Application was not submitted or tested beyond its entry point.
 
-During research, an Amazon Applied Scientist internship search result returned a **404** when opened; a Hitachi Energy Data & MLOps result returned **410**; an NXP MLOps page had no readable body. These were excluded from the four-role sample. Search snippets alone are not accepted evidence of open opportunities. No claim about the reason for their unavailability is made.
+[Read eligibility and apply on Amazon Jobs](https://www.amazon.jobs/en/jobs/10496769/data-engineer-intern-2027)
 
-## Observations and recommendations
+### Amazon: Programmer Analyst Intern – 2027
 
-**Observed in this sample:** SQL, programming and pipeline responsibilities recur; some descriptions explicitly connect data preparation with ML/GenAI and operational work. These are role-description observations, not measured labour-market trends.
+- **Requisition:** 10506542.
+- **Work:** application integrations, internal tools, debugging and automation.
+- **Eligibility:** pursuing a bachelor's or higher in CS, Engineering or equivalent; programming/DSA foundations and project, hackathon or internship experience. The page also has a broader generic degree block; confirm eligibility if already graduated. No precise pass-out-year range was established beyond the 2027 title.
+- **Location / mode:** India, including Hyderabad; full-time availability and university approval are required. Remote work is not confirmed.
+- **Stipend:** not disclosed. **Duration:** not established. **Application deadline:** not stated.
+- **Last checked:** 12 November 2026; official role description and Apply entry present.
 
-**Editorial recommendation:** students should build fundamentals and demonstrable projects before chasing specialised titles. Learn data quality alongside modelling, and deployment checks alongside model inference. A portfolio demonstrates learning; it does not replace a required qualification or count automatically as professional experience.
+[Read eligibility and apply on Amazon Jobs](https://www.amazon.jobs/en/jobs/10506542/programmer-analyst-intern-2027)
 
-**Not established:** that AI replaces Data Engineers, that MLOps is a universal graduate entry route, that one cloud or certificate guarantees work, or that salaries are rising. This review contains no salary estimates.
+### HackerRank: Software Development Engineer Intern
 
-## How to refresh this page
+- **Requisition:** 8229735.
+- **Eligibility:** full-time availability for the complete internship. The description does not specify a degree, branch, graduation batch or minimum marks; these are **not confirmed**, rather than assumed unrestricted.
+- **Location / mode:** Bengaluru, full-time on-site.
+- **Duration / start:** six months, January–June 2027; the application asks about availability from **5 January 2027**.
+- **Stipend:** the employer describes the internship as paid; amount not disclosed. **Application deadline:** not stated; the start date is not an application deadline.
+- **Last checked:** 12 November 2026; employer board, detailed job feed and application form present. Ask the employer about any eligibility not published before relying on this opportunity.
 
-1. Recheck every included role page and mark closed/unavailable links as historical.
-2. Add distinct employer postings and separate internship, graduate, junior-with-experience and senior categories.
-3. Record employer, role/requisition, location, posting date if visible, checked date, qualification, minimum experience and required versus preferred skills.
-4. Count unique roles and employers; disclose how they were selected and what could not be accessed.
-5. Support each conclusion with the sampled evidence and preserve limits; do not infer demand from search-result counts.
+[Read and apply on HackerRank’s official hiring board](https://job-boards.greenhouse.io/hackerrank/jobs/8229735)
 
-[Roles and entry routes](roles-and-entry-routes.md) | [Student learning paths](student-learning-paths.md) | [Back to the section](index.md)
+## Fresher-eligible jobs
+
+### HackerRank: Customer Experience Engineer, L1
+
+- **Requisition:** 8127535.
+- **Eligibility:** the employer explicitly welcomes strong freshers and recent graduates; the role also accepts early-career engineers with up to three relevant years. No specific degree, branch, graduation batch or marks cutoff was established.
+- **Work:** investigate APIs, integrations, SQL/data issues and software behaviour, and communicate with customers. This is technical customer engineering, not an ML research role.
+- **Location / mode:** Bengaluru, hybrid; application asks about at least three office days weekly and rotating coverage across a 24×7 support window, including weekends. Confirm the schedule and employment terms.
+- **Salary:** not disclosed. **Application deadline:** not stated. **Start date:** not stated.
+- **Last checked:** 12 November 2026; employer description explicitly confirms fresher eligibility and the application form is available.
+
+[Read and apply on HackerRank’s official hiring board](https://job-boards.greenhouse.io/hackerrank/jobs/8127535)
+
+## Before you apply
+
+1. Reopen the official role page. If it is closed, missing or redirects to general careers, do not treat this listing as open.
+2. Compare every published eligibility condition with your situation; confirm missing or inconsistent details with the employer.
+3. Check college attendance/exam constraints, mode, mentoring, stipend/fees and written terms.
+4. Use your own project evidence and a truthful resume. Keep identity documents and applications off this repository.
+5. Apply directly through the employer. Do not assume an internship converts to employment.
+
+Use the [internship evaluation checklist](../careers/finding-internships.md), [roles guide](roles-and-entry-routes.md) and [student learning paths](student-learning-paths.md) to prepare.
+
+## How listings are selected and maintained
+
+- Include direct employer pages or their official applicant-tracking boards with a readable role description, an application route and explicit internship/graduate/fresher eligibility.
+- Exclude search snippets, expired deadlines, generic talent-pool registration, paid training advertisements and roles requiring prior professional experience with no stated fresher route.
+- State unpublished pay, deadlines and conditions as unknown. Do not guess from third-party job boards.
+- Recheck at least weekly. Remove closed listings from the active list and record the change; mark unreadable or overdue-for-review entries **needs recheck** rather than silently renewing a date.
+- Keep specialist research internships that require professional experience out of this beginner list. For example, the reviewed HackerRank AI Researcher Intern asks for advanced study and two to three years of relevant experience, so it was not added here.
+- Listings are editorial pointers, not employer endorsements or placement guarantees.
+
+## Sources and verification limits
+
+Amazon descriptions were checked directly on the linked role pages. HackerRank board and application pages were checked alongside its public job feed because the rendered application pages omitted the detailed descriptions:
+
+- [HackerRank careers](https://www.hackerrank.com/careers/home) and [current official board](https://job-boards.greenhouse.io/hackerrank).
+- [Public employer description for SDE internship](https://boards-api.greenhouse.io/v1/boards/hackerrank/jobs/8229735).
+- [Public employer description for CX Engineer L1](https://boards-api.greenhouse.io/v1/boards/hackerrank/jobs/8127535).
+
+This is a source check, not a completed application or an employer verification interview. Some researched search results led to removed roles or general careers pages and were excluded.
+
+[Skills and experience: separate market reference](job-market-evidence.md) · [Back to AI & data](index.md)

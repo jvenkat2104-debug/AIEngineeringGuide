@@ -22,7 +22,7 @@ Read [Find and evaluate an internship](finding-internships.md) for an official d
 
 ## AI, data and MLOps roles
 
-Compare [roles and entry routes](../03-the-ai-impact/roles-and-entry-routes.md) with the [12 November employer-posting sample](../03-the-ai-impact/job-market-snapshot.md). The sample consists of experience-requiring roles; it is not a list of verified fresher vacancies.
+Compare [roles and entry routes](../03-the-ai-impact/roles-and-entry-routes.md) with the [12 November employer-posting sample](../03-the-ai-impact/job-market-evidence.md). The sample consists of experience-requiring roles; it is not a list of verified fresher vacancies.
 
 ---
 Source basis: Campus to Corporate blueprint, Version 4; adapted reading guidance.

@@ -37,6 +37,6 @@ A non-CSE degree does not prevent learning these skills, but it does not overrid
 
 For three actual postings record: title, employer, location, source/check date, employment type, qualification, minimum experience, required skills, preferred skills and project evidence you can show. Mark each as **eligible now**, **needs verification**, or **future learning reference**. Do not label a position a fresher role just because its title includes “Associate”.
 
-Compare with the [dated employer sample](job-market-snapshot.md) and [internship evaluation checklist](../careers/finding-internships.md).
+Compare with the [dated employer sample](job-market-evidence.md) and [internship evaluation checklist](../careers/finding-internships.md).
 
 [Back to AI, Data and Career Pathways](index.md)

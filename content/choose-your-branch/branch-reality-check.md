@@ -30,7 +30,7 @@ Compare branch and college together. Ask how students use the labs, who mentors 
 
 ## “Can a degree or certificate guarantee a job?”
 
-Treat guaranteed outcomes carefully. Compare role requirements, demonstrable skills and the work expected. The [dated employer sample](../engineering-roadmap/03-the-ai-impact/job-market-snapshot.md) shows why even an “Associate” title can require experience; it is not a survey of the whole market.
+Treat guaranteed outcomes carefully. Compare role requirements, demonstrable skills and the work expected. The [dated employer sample](../engineering-roadmap/03-the-ai-impact/job-market-evidence.md) shows why even an “Associate” title can require experience; it is not a survey of the whole market.
 
 ## Turn uncertainty into a next step
 

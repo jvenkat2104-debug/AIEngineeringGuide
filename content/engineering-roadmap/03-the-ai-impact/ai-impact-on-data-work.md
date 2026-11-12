@@ -38,6 +38,6 @@ Using invented records, solve a mapping problem yourself and then request a sugg
 
 ## Evidence versus prediction
 
-Some [sampled employer descriptions](job-market-snapshot.md) connect data pipelines with ML/GenAI work. That supports a narrow observation about those roles, not a forecast of net job creation, replacement or salary growth. Keep such claims separately researched and dated.
+Some [sampled employer descriptions](job-market-evidence.md) connect data pipelines with ML/GenAI work. That supports a narrow observation about those roles, not a forecast of net job creation, replacement or salary growth. Keep such claims separately researched and dated.
 
 [Back to AI, Data and Career Pathways](index.md)
