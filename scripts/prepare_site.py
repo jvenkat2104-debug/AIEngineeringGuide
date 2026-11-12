@@ -50,7 +50,10 @@ def main():
         target.parent.mkdir(parents=True, exist_ok=True)
         text = rewrite(source, source.read_text(encoding="utf-8"))
         target.write_text(text, encoding="utf-8")
+    historical = {"Engineering_Branch_Selection_Guide.pdf", "Campus_to_Corporate_Blueprint.pdf"}
     for source in (ROOT / "downloads").glob("*.pdf"):
+        if source.name in historical:
+            continue  # Preserve source editions in GitHub, outside the published site.
         shutil.copy2(source, OUT / "downloads" / source.name)
     shutil.copytree(ROOT / "site" / "assets", OUT / "assets", dirs_exist_ok=True)
     print(f"Prepared {len(sources)} Markdown pages and PDF downloads in {OUT}")

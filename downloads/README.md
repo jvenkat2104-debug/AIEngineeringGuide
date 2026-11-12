@@ -10,13 +10,6 @@ These one-page sheets are community drafts awaiting independent review. Print th
 
 The web and PDF versions above are generated together from `publishing/printables.json`. Check the website and official notices for current information.
 
-## Original supplied editions
-
-These historical editions are preserved unchanged and also await independent review. They do not contain subsequent website updates.
-
-- [Choose Your Engineering Branch](Engineering_Branch_Selection_Guide.pdf)
-- [Campus to Corporate blueprint, Version 4](Campus_to_Corporate_Blueprint.pdf)
-
 ## Licensing
 
 The [licensing policy](../LICENSE.md) applies: CC BY 4.0 for project-owned prose and original illustrations; Apache 2.0 for code. Third-party material retains its own terms.

@@ -77,7 +77,7 @@ Still choosing? Start with [your interests and a seven-day exploration](choose-y
 
 This is a community draft. Independent technical and student clarity reviews are pending. Dated opportunities and job examples are snapshots; check official sources before acting. There are no placement or salary guarantees.
 
-[About this guide](about.md) · [Help improve a page](contribute.md) · [Printable sheets and original PDFs](../downloads/README.md)
+[About this guide](about.md) · [Help improve a page](contribute.md) · [Printable sheets](../downloads/README.md)
 
 
 ## Looking for your first opportunity?

@@ -37,7 +37,7 @@ Companion guide: [Your Engineering Roadmap](../engineering-roadmap/index.md), wi
 7. [Make Your Shortlist](shortlist.md)
 8. [After Joining and How to Contribute](after-joining-and-sources.md)
 
-[Download the original draft PDF](../../downloads/Engineering_Branch_Selection_Guide.pdf)
+[Download the printable checklists and worksheet](../../downloads/README.md)
 
 [Already joined engineering? Start your roadmap](../engineering-roadmap/index.md)
 

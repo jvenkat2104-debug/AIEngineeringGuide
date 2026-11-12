@@ -30,7 +30,7 @@ Start with your year. Advanced software and operations material is optional and 
 7. **Industry exposure:** [Hyderabad](06-industry-tours/hyderabad.md), [Bengaluru](06-industry-tours/bengaluru.md), [Chennai](06-industry-tours/chennai.md).
 8. **Across all years:** [Communication](communication/communication-and-soft-skills.md), [Checklists](checklists/year-by-year.md), [Resources](../shared/resources.md), [Glossary](../shared/glossary.md).
 
-The chapters are edited drafts based on the supplied blueprint. Mechanical/Civil additions need specialist review. The original advanced code is preserved as source material, not claimed as tested. [Original PDF](../../downloads/Campus_to_Corporate_Blueprint.pdf).
+The chapters are edited drafts based on the supplied blueprint. Mechanical/Civil additions need specialist review. The original advanced code is preserved as source material, not claimed as tested.
 
 [Still deciding? Explore the branches.](../choose-your-branch/index.md)
 

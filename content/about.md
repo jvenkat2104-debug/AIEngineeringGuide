@@ -34,4 +34,4 @@ Reading this site does not require a GitHub account. There is no paid course, cu
 
 Written content and original illustrations use **CC BY 4.0**; code examples and configuration use **Apache 2.0**, subject to the [licensing policy](../LICENSE.md). Third-party material retains its own terms.
 
-[Contribute](contribute.md) | [Printable sheets and original PDFs](../downloads/README.md)
+[Contribute](contribute.md) | [Printable sheets](../downloads/README.md)
