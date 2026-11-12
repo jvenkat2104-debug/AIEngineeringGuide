@@ -1,6 +1,10 @@
-# AIEngineeringGuide
+# Engineering Guide for Indian Students
 
 **Choose your branch. Make the most of engineering. Prepare for your career.**
+
+**[Read the website](https://jvenkat2104-debug.github.io/AIEngineeringGuide/)** · [For parents](https://jvenkat2104-debug.github.io/AIEngineeringGuide/choose-your-branch/for-parents/) · [Branch reality check](https://jvenkat2104-debug.github.io/AIEngineeringGuide/choose-your-branch/branch-reality-check/)
+
+Repository name: `AIEngineeringGuide`. The public website title describes the broader audience.
 
 Practical guides for Indian Intermediate/Class 11–12 students, parents and engineering students. The initiative covers engineering broadly, including computing, electronics, electrical, mechanical and civil disciplines.
 
@@ -66,7 +70,7 @@ The chapters are readable **drafts**, not independently reviewed guidance. Mecha
 
 Read [CONTRIBUTING.md](CONTRIBUTING.md), use the [module template](templates/module.md), or propose a sourced correction through an issue. [Project plan](PROJECT_PLAN.md) records the broader scope. [Licensing: CC BY 4.0 for content; Apache 2.0 for code](LICENSE.md).
 
-The proposed web routes are `/choose-your-branch/` and `/engineering-roadmap/`. No separate reading website is deployed yet.
+The website uses `/choose-your-branch/` and `/engineering-roadmap/` beneath the GitHub Pages project URL. It is built with free, open-source Zensical and published by GitHub Actions. See [publishing instructions](publishing/README.md).
 
 
 ## Student support: 12 November 2026

@@ -15,14 +15,14 @@ nav = [
 { "Overview" = "choose-your-branch/index.md" },
 { "For parents" = "choose-your-branch/for-parents.md" },
 { "Branch reality check" = "choose-your-branch/branch-reality-check.md" },
-{ "After Joining and How to Contribute" = "choose-your-branch/after-joining-and-sources.md" },
-{ "Compare the Actual Degree" = "choose-your-branch/compare-degrees.md" },
+{ "Start with Your Interests" = "choose-your-branch/interests.md" },
 { "Computing and Data Branches" = "choose-your-branch/computing-and-data.md" },
 { "Electronics and Electrical Branches" = "choose-your-branch/electronics-and-electrical.md" },
-{ "Evaluate the College and the Cost" = "choose-your-branch/evaluate-colleges.md" },
-{ "Start with Your Interests" = "choose-your-branch/interests.md" },
 { "Mechanical and Civil Branches" = "choose-your-branch/mechanical-and-civil.md" },
-{ "Make Your Shortlist" = "choose-your-branch/shortlist.md" }
+{ "Compare the Actual Degree" = "choose-your-branch/compare-degrees.md" },
+{ "Evaluate the College and the Cost" = "choose-your-branch/evaluate-colleges.md" },
+{ "Make Your Shortlist" = "choose-your-branch/shortlist.md" },
+{ "After Joining and How to Contribute" = "choose-your-branch/after-joining-and-sources.md" }
 ] },
 { "Engineering roadmap" = [
 { "Start the roadmap" = "engineering-roadmap/index.md" },
@@ -74,16 +74,16 @@ nav = [
 ] },
 { "AI & data" = [
 { "AI, Data and Career Pathways" = "engineering-roadmap/03-the-ai-impact/index.md" },
-{ "Understanding AI’s impact on engineering" = "engineering-roadmap/03-the-ai-impact/ai-advancements.md" },
-{ "How AI can assist Data Engineering and integration" = "engineering-roadmap/03-the-ai-impact/ai-impact-on-data-work.md" },
 { "AI, ML and generative AI: what is the difference?" = "engineering-roadmap/03-the-ai-impact/ai-ml-and-generative-ai.md" },
-{ "Canteen project: from records to reliable predictions" = "engineering-roadmap/03-the-ai-impact/canteen-data-to-ai-project.md" },
 { "Data Engineering and data integration" = "engineering-roadmap/03-the-ai-impact/data-engineering-and-integration.md" },
-{ "Job-market evidence: AI, data and operations" = "engineering-roadmap/03-the-ai-impact/job-market-snapshot.md" },
 { "MLOps: operating a model beyond the notebook" = "engineering-roadmap/03-the-ai-impact/mlops-and-operating-ai.md" },
-{ "A practical development workflow" = "engineering-roadmap/03-the-ai-impact/modern-developer-workflow.md" },
+{ "How AI can assist Data Engineering and integration" = "engineering-roadmap/03-the-ai-impact/ai-impact-on-data-work.md" },
 { "Roles and realistic entry routes" = "engineering-roadmap/03-the-ai-impact/roles-and-entry-routes.md" },
-{ "Student learning paths for AI and data" = "engineering-roadmap/03-the-ai-impact/student-learning-paths.md" }
+{ "Job-market evidence: AI, data and operations" = "engineering-roadmap/03-the-ai-impact/job-market-snapshot.md" },
+{ "Student learning paths for AI and data" = "engineering-roadmap/03-the-ai-impact/student-learning-paths.md" },
+{ "Canteen project: from records to reliable predictions" = "engineering-roadmap/03-the-ai-impact/canteen-data-to-ai-project.md" },
+{ "Understanding AI’s impact on engineering" = "engineering-roadmap/03-the-ai-impact/ai-advancements.md" },
+{ "A practical development workflow" = "engineering-roadmap/03-the-ai-impact/modern-developer-workflow.md" }
 ] },
 { "Student support" = [
 { "Shared learning support" = "shared/index.md" },
@@ -117,6 +117,7 @@ md_in_html = {}
 tables = {}
 admonition = {}
 pymdownx.details = {}
+pymdownx.tasklist = { custom_checkbox = true }
 pymdownx.superfences.custom_fences = [
   { name = "mermaid", class = "mermaid", format = "pymdownx.superfences.fence_code_format" },
 ]

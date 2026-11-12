@@ -306,3 +306,7 @@ Review this outline, then prepare the local repository scaffold and import the e
 ## AI and data expansion delivered — 12 November 2026
 
 The existing `03-the-ai-impact/` folder now has a linked AI, Data and Career Pathways section. It includes the eight chapters described in [the section index](content/engineering-roadmap/03-the-ai-impact/index.md). The market snapshot is dated and limited to a disclosed four-employer sample. The canteen exercise is a project brief, not tested runnable code. Original PDF editions have not been regenerated.
+
+## Website implementation — 12 November 2026
+
+Public title: Engineering Guide for Indian Students. The repository name stays AIEngineeringGuide. Free Zensical/GitHub Pages implementation includes a two-entrance homepage, search, mobile navigation, parent guidance, branch reality check and original PDF downloads. Content is projected from the maintained Markdown; generated files are ignored. Draft notices remain. Translation, expert review and regenerated PDFs remain future work. See [publishing instructions](publishing/README.md).

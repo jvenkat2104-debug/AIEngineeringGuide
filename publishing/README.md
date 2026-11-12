@@ -16,3 +16,7 @@ Generated HTML is in `dist/site/`. Preview with a local static server or `zensic
 The site uses only the open-source Zensical package and standard GitHub Actions/GitHub Pages. Studio, Spark, paid runners, custom domains and paid APIs are not required.
 
 The build workflow can be dispatched without deployment for artifact inspection. Deployment requires GitHub Pages configured with GitHub Actions as its build source. Keep the community-draft notice until named reviewers have actually reviewed content. Existing PDF downloads are original editions, not exports of all current website chapters.
+
+## Deployment and local compatibility
+
+Pushes to `main` build and deploy automatically. A manual run can set `deploy=false` for artifact inspection. Public website: https://jvenkat2104-debug.github.io/AIEngineeringGuide/ . The first verified build used Linux/Python 3.12 and Zensical 0.1.1. Native Windows builds encountered a Zensical URL-parsing panic; the Linux workflow is the verified build route. Download the `site-preview` artifact to preview generated files locally with a static HTTP server.

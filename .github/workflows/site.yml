@@ -1,5 +1,7 @@
 name: Build and publish guide
 on:
+  push:
+    branches: [main]
   workflow_dispatch:
     inputs:
       deploy:
@@ -30,7 +32,7 @@ jobs:
         with:
           path: dist/site
   deploy:
-    if: inputs.deploy
+    if: github.event_name == 'push' || inputs.deploy
     needs: build
     permissions:
       pages: write
