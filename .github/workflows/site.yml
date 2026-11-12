@@ -1,0 +1,44 @@
+name: Build and publish guide
+on:
+  workflow_dispatch:
+    inputs:
+      deploy:
+        description: Publish the verified site to GitHub Pages
+        type: boolean
+        default: false
+permissions:
+  contents: read
+concurrency:
+  group: guide-pages
+  cancel-in-progress: false
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install -r requirements-site.txt
+      - run: python scripts/prepare_site.py
+      - run: zensical build --clean
+      - uses: actions/upload-artifact@v4
+        with:
+          name: site-preview
+          path: dist/site
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist/site
+  deploy:
+    if: inputs.deploy
+    needs: build
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/deploy-pages@v4
+        id: deployment
