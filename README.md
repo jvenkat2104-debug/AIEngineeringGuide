@@ -19,7 +19,7 @@ Practical guides for Indian Intermediate/Class 11–12 students, parents and eng
 | [00 — Start here](content/engineering-roadmap/00-start-here/what-is-engineering.md) | Engineering mindset, how an app works, learning habits and a first project |
 | [01 — Core concepts](content/engineering-roadmap/01-core-concepts/architecture-and-system-design.md) | Architecture, software layers, data roles and [DSA](content/engineering-roadmap/01-core-concepts/data-structures-and-algorithms.md) |
 | [02 — Branch guide](content/engineering-roadmap/02-branch-guide/branch-guide.md) | Foundations, practice and project evidence across pathways |
-| [03 — AI impact](content/engineering-roadmap/03-the-ai-impact/ai-advancements.md) | Applications, limitations and a practical development workflow |
+| [03 — AI, Data and Career Pathways](content/engineering-roadmap/03-the-ai-impact/index.md) | AI/ML, integration, MLOps, roles, dated job-market evidence and a canteen project |
 | [04 — Career exploration](content/engineering-roadmap/careers/README.md) | EV, renewable energy and chip-design connections |
 | [05 — Practical tools](content/engineering-roadmap/05-technical-grinding/application-logic.md) | Git, APIs, data formats and advanced telemetry design |
 | [06 — Industry exposure](content/engineering-roadmap/industry-exposure/README.md) | Learning plans for Hyderabad, Bengaluru and Chennai, with remote alternatives |

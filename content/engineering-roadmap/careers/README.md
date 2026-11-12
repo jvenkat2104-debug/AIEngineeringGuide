@@ -19,5 +19,10 @@ For higher studies or research, examine current eligibility, prerequisite subjec
 
 Read [Find and evaluate an internship](finding-internships.md) for an official discovery route and a comparison checklist.
 
+
+## AI, data and MLOps roles
+
+Compare [roles and entry routes](../03-the-ai-impact/roles-and-entry-routes.md) with the [12 November employer-posting sample](../03-the-ai-impact/job-market-snapshot.md). The sample consists of experience-requiring roles; it is not a list of verified fresher vacancies.
+
 ---
 Source basis: Campus to Corporate blueprint, Version 4; adapted reading guidance.

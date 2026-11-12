@@ -20,5 +20,10 @@ For Mechanical and Civil, use faculty-reviewed design or observation activities.
 
 Use [virtual labs](../../shared/virtual-labs.md) for branch-related exercises, recording predictions and observations. For programs, document the [tested project environment](../../shared/project-environments.md).
 
+
+## Connected data-to-AI project
+
+The [canteen project](../03-the-ai-impact/canteen-data-to-ai-project.md) connects ingestion, validation, reporting, a baseline, model evaluation and operational checks. It is a staged brief with synthetic data, not an already implemented application.
+
 ---
 Source basis: Campus to Corporate blueprint, Version 4; adapted reading guidance.

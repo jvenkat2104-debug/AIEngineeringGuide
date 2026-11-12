@@ -20,5 +20,10 @@ Do not put private student records, credentials or employer material into a tool
 
 Keep time-sensitive claims about adoption, hiring or particular products dated and backed by current sources when adding them to this guide.
 
+
+## Explore AI, data and operational work
+
+Read [AI, Data and Career Pathways](index.md) for AI/ML foundations, Data Engineering and integration, MLOps, role comparisons, a dated employer sample and the canteen project. It extends this introduction without making job or salary guarantees.
+
 ---
 Source basis: Campus to Corporate blueprint, Version 4. Adapted for this guide; additions and pathway suggestions require review.

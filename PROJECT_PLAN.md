@@ -301,3 +301,8 @@ Do not infer these decisions from proposed source-document wording. Record expli
 ## 8. Immediate next step
 
 Review this outline, then prepare the local repository scaffold and import the existing content. Start the detailed roadmap with **Start here**, **How connected systems work**, and **Year 1 learning habits and a first project**, while maintaining the selection guide alongside it. Keep all imported and newly written content marked Draft until reviewed.
+
+
+## AI and data expansion delivered — 12 November 2026
+
+The existing `03-the-ai-impact/` folder now has a linked AI, Data and Career Pathways section. It includes the eight chapters described in [the section index](content/engineering-roadmap/03-the-ai-impact/index.md). The market snapshot is dated and limited to a disclosed four-employer sample. The canteen exercise is a project brief, not tested runnable code. Original PDF editions have not been regenerated.

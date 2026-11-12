@@ -17,5 +17,10 @@ Titles overlap. Read the responsibilities and eligibility of an actual role inst
 
 Use a small invented canteen-sales table. Summarise daily demand, describe how records should be collected, predict demand using an average, and explain how you would detect an unreliable prediction. Record missing data and assumptions before drawing conclusions.
 
+
+## Explore AI, data and operational work
+
+Read [AI, Data and Career Pathways](../03-the-ai-impact/index.md) for AI/ML foundations, Data Engineering and integration, MLOps, role comparisons, a dated employer sample and the canteen project. It extends this introduction without making job or salary guarantees.
+
 ---
 Source basis: Campus to Corporate blueprint, Version 4. Adapted for this guide; additions and pathway suggestions require review.

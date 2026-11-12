@@ -39,3 +39,8 @@ Chapter paths in the table are relative to `content/engineering-roadmap/` unless
 ## Added after the original blueprint
 
 - Data Structures and Algorithms chapter under `01-core-concepts`, requested by the project owner: arrays, strings, linked lists, trees, graphs, sorting, searching and dynamic programming, with supporting prerequisites, practice and complexity. Linked from Years 1–3 and the checklists; independent review pending.
+
+
+## AI and data expansion — 12 November 2026
+
+Added at the owner’s request: a section index and eight chapters on AI/ML/GenAI, data integration, MLOps, AI-assisted data work, roles, a four-employer market sample, student learning paths and a staged canteen project. Original cross-branch AI guidance and workflow remain in place. This is an editorial extension, not content claimed to exist in the original PDF. Independent review and a runnable project implementation remain pending.

@@ -23,5 +23,10 @@ Can you explain the main idea without notes? Can someone follow your instruction
 
 [Return to the roadmap](../index.md)
 
+
+## AI and data pathway
+
+Compare your project evidence with actual role requirements; explain evaluation, operational checks and limits. Follow [AI, Data and Career Pathways](../03-the-ai-impact/index.md) and its [student learning sequence](../03-the-ai-impact/student-learning-paths.md).
+
 ---
 Source basis: Campus to Corporate blueprint, Version 4; adapted reading guidance.

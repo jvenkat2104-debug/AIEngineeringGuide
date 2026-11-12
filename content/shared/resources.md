@@ -32,3 +32,8 @@ Official sources checked: 12 November 2026.
 ## Regional-language learning
 
 Follow [NPTEL’s translated-content instructions](https://sites.google.com/nptel.iitm.ac.in/help-center-swayamnpteltrans/nptel): find a course, open **Transcripts**, select an available language tab and download lecture PDFs where offered. Check **Books** for translated books. Availability varies by course and language. Pair English syllabus terms with explanations in your preferred language. Checked 12 November 2026; interface details may change.
+
+
+## AI and data foundations
+
+Use [AI, Data and Career Pathways](../engineering-roadmap/03-the-ai-impact/index.md) for a guided sequence and checked primary references. Start with prerequisites before advanced architecture tools; no paid platform is required for the core canteen exercise.

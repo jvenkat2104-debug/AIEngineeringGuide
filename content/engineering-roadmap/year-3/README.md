@@ -34,5 +34,10 @@ Can you explain the main idea without notes? Can someone follow your instruction
 
 Use the [internship discovery guide](../careers/finding-internships.md) to compare eligibility, work, mentoring, costs/stipend and deadlines. Keep a private application tracker.
 
+
+## AI and data pathway
+
+Choose data, ML, application or operations depth and test one failure in the canteen project. Follow [AI, Data and Career Pathways](../03-the-ai-impact/index.md) and its [student learning sequence](../03-the-ai-impact/student-learning-paths.md).
+
 ---
 Source basis: Campus to Corporate blueprint, Version 4; adapted reading guidance.
