@@ -12,7 +12,7 @@ hide:
 
 Choose with evidence. Learn through practice. Build a path that fits you.
 
-Plain-language guidance for students and families—from understanding engineering branches to making college count.
+A free, open guide for Indian students and families—from choosing an engineering branch to making the most of the degree.
 
 [Explore engineering branches](choose-your-branch/index.md){ .md-button .md-button--primary }
 [Start your college roadmap](engineering-roadmap/index.md){ .md-button }
