@@ -1,11 +1,11 @@
 [project]
 site_name = "Engineering Guide for Indian Students"
-site_url = "https://jvenkat2104-debug.github.io/AIEngineeringGuide/"
+site_url = "https://jvenkat2104-debug.github.io/"
 site_description = "Choose your branch, make the most of engineering and prepare for your next step. A practical community guide for Indian students and families."
 site_author = "AIEngineeringGuide contributors"
 docs_dir = "tmp/web-docs"
 site_dir = "dist/site"
-repo_url = "https://github.com/jvenkat2104-debug/AIEngineeringGuide"
+repo_url = "https://github.com/jvenkat2104-debug/jvenkat2104-debug.github.io"
 repo_name = "Contribute on GitHub"
 copyright = "Community draft · Content: CC BY 4.0 · Code: Apache 2.0"
 extra_css = ["assets/guide.css"]

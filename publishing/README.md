@@ -9,6 +9,7 @@ Use Python 3.12 or later, create a virtual environment and install `requirements
 ```sh
 python scripts/prepare_site.py
 zensical build --clean
+python scripts/add_legacy_redirects.py
 ```
 
 Generated HTML is in `dist/site/`. Preview with a local static server or `zensical serve` after preparing the source. The checked-in `site/` directory contains authored styling and theme overrides, not generated output.
@@ -19,4 +20,8 @@ The build workflow can be dispatched without deployment for artifact inspection.
 
 ## Deployment and local compatibility
 
-Pushes to `main` build and deploy automatically. A manual run can set `deploy=false` for artifact inspection. Public website: https://jvenkat2104-debug.github.io/AIEngineeringGuide/ . The first verified build used Linux/Python 3.12 and Zensical 0.1.1. Native Windows builds encountered a Zensical URL-parsing panic; the Linux workflow is the verified build route. Download the `site-preview` artifact to preview generated files locally with a static HTTP server.
+Pushes to `main` build and deploy automatically. A manual run can set `deploy=false` for artifact inspection. Public website: https://jvenkat2104-debug.github.io/ . The first verified build used Linux/Python 3.12 and Zensical 0.1.1. Native Windows builds encountered a Zensical URL-parsing panic; the Linux workflow is the verified build route. Download the `site-preview` artifact to preview generated files locally with a static HTTP server.
+
+## Account-site migration
+
+The repository is `jvenkat2104-debug/jvenkat2104-debug.github.io`; the canonical site is https://jvenkat2104-debug.github.io/ . After building, `scripts/add_legacy_redirects.py` creates lightweight redirects for former `/AIEngineeringGuide/` HTML routes. They point to the corresponding root-site pages and preserve query strings and anchors when JavaScript is available. These are compatibility pages, not duplicate maintained content. The workspace folder may retain its original name.

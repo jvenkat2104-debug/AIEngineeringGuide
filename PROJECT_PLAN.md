@@ -310,3 +310,7 @@ The existing `03-the-ai-impact/` folder now has a linked AI, Data and Career Pat
 ## Website implementation — 12 November 2026
 
 Public title: Engineering Guide for Indian Students. The repository name stays AIEngineeringGuide. Free Zensical/GitHub Pages implementation includes a two-entrance homepage, search, mobile navigation, parent guidance, branch reality check and original PDF downloads. Content is projected from the maintained Markdown; generated files are ignored. Draft notices remain. Translation, expert review and regenerated PDFs remain future work. See [publishing instructions](publishing/README.md).
+
+## Account-site migration — 12 November 2026
+
+Rename the existing public repository to `jvenkat2104-debug.github.io`, retaining content and history. Use https://jvenkat2104-debug.github.io/ as the canonical reading URL, update repository links and the weekly review target, and generate redirects for old project-site pages. The local workspace and historical project references may retain the AIEngineeringGuide name.

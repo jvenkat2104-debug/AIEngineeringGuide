@@ -5,7 +5,7 @@ import shutil
 
 ROOT = Path(__file__).resolve().parents[1]
 OUT = ROOT / "tmp" / "web-docs"
-REPO = "https://github.com/jvenkat2104-debug/AIEngineeringGuide/blob/main/"
+REPO = "https://github.com/jvenkat2104-debug/jvenkat2104-debug.github.io/blob/main/"
 
 def destination(source):
     if source.is_relative_to(ROOT / "content"):

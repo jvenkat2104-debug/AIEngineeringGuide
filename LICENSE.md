@@ -22,7 +22,7 @@ CC BY 4.0 permits sharing and adaptation, including commercial use, with the req
 
 For written content, a suitable starting credit is:
 
-> Based on AIEngineeringGuide by the AIEngineeringGuide contributors, https://github.com/jvenkat2104-debug/AIEngineeringGuide, licensed under CC BY 4.0, https://creativecommons.org/licenses/by/4.0/. Changes: describe your changes here.
+> Based on AIEngineeringGuide by the AIEngineeringGuide contributors, https://github.com/jvenkat2104-debug/jvenkat2104-debug.github.io, licensed under CC BY 4.0, https://creativecommons.org/licenses/by/4.0/. Changes: describe your changes here.
 
 Retain supplied author credits and notices where applicable. Do not imply endorsement. For code, supply the Apache 2.0 licence, preserve applicable notices and identify modifications as required by its terms.
 

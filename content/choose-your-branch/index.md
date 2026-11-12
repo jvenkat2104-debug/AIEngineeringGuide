@@ -24,7 +24,7 @@ You do not need previous coding experience, an expensive laptop, or perfect Engl
 
 This is an exploration guide, not an aptitude test, college ranking or admission guarantee. Branch names, syllabi and admission requirements vary. Check the official prospectus and counselling notices for your admission year.
 
-Companion guide: [Your Engineering Roadmap](../engineering-roadmap/index.md), with year-wise learning and practical chapters. Read both guides on the [public website](https://jvenkat2104-debug.github.io/AIEngineeringGuide/).
+Companion guide: [Your Engineering Roadmap](../engineering-roadmap/index.md), with year-wise learning and practical chapters. Read both guides on the [public website](https://jvenkat2104-debug.github.io/).
 
 ## Read the guide
 

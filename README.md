@@ -2,9 +2,9 @@
 
 **Choose your branch. Make the most of engineering. Prepare for your career.**
 
-**[Read the website](https://jvenkat2104-debug.github.io/AIEngineeringGuide/)** · [For parents](https://jvenkat2104-debug.github.io/AIEngineeringGuide/choose-your-branch/for-parents/) · [Branch reality check](https://jvenkat2104-debug.github.io/AIEngineeringGuide/choose-your-branch/branch-reality-check/)
+**[Read the website](https://jvenkat2104-debug.github.io/)** · [For parents](https://jvenkat2104-debug.github.io/choose-your-branch/for-parents/) · [Branch reality check](https://jvenkat2104-debug.github.io/choose-your-branch/branch-reality-check/)
 
-Repository name: `AIEngineeringGuide`. The public website title describes the broader audience.
+Repository: `jvenkat2104-debug.github.io`. Public website: **Engineering Guide for Indian Students**. The original local workspace name remains `AIEngineeringGuide`.
 
 Practical guides for Indian Intermediate/Class 11–12 students, parents and engineering students. The initiative covers engineering broadly, including computing, electronics, electrical, mechanical and civil disciplines.
 

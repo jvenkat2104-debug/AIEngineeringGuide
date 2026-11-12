@@ -24,6 +24,7 @@ jobs:
       - run: pip install -r requirements-site.txt
       - run: python scripts/prepare_site.py
       - run: zensical build --clean
+      - run: python scripts/add_legacy_redirects.py
       - uses: actions/upload-artifact@v4
         with:
           name: site-preview

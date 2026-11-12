@@ -4,7 +4,7 @@ Students can identify confusing passages. Faculty and engineers can review their
 
 ## Propose a correction
 
-Open an [issue](https://github.com/jvenkat2104-debug/AIEngineeringGuide/issues) with the page, confusing or incorrect text, suggested change and a supporting source where relevant. A GitHub account is needed to submit an issue, but not to read this website.
+Open an [issue](https://github.com/jvenkat2104-debug/jvenkat2104-debug.github.io/issues) with the page, confusing or incorrect text, suggested change and a supporting source where relevant. A GitHub account is needed to submit an issue, but not to read this website.
 
 For larger changes, use a pull request. Read the [contribution instructions](../CONTRIBUTING.md) and [licensing policy](../LICENSE.md). Contributors retain ownership and submit under the applicable content/code licence.
 
