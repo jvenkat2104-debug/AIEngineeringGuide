@@ -14,5 +14,10 @@ Start with responsibilities rather than a job title. Collect two actual role des
 
 For higher studies or research, examine current eligibility, prerequisite subjects and the work of the department or research group. For entrepreneurship, start with a real user problem, a small experiment and the cost of delivering a reliable solution. These choices need their own evidence; prestige and certificate counts do not settle them.
 
+
+## Find an internship
+
+Read [Find and evaluate an internship](finding-internships.md) for an official discovery route and a comparison checklist.
+
 ---
 Source basis: Campus to Corporate blueprint, Version 4; adapted reading guidance.

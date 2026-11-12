@@ -35,3 +35,8 @@ Student: explain which subjects interested you and what you learned from trying 
 Use a shared computer, library or school lab where available. Begin with paper activities and free learning material. Ask colleges about computer-lab access before buying equipment. Learn concepts in the language that helps you understand, while gradually practising the English technical terms used in the syllabus.
 
 [Back to the guide](index.md) | [Already joined engineering? Start your roadmap](../engineering-roadmap/index.md)
+
+
+## Explore with accessible resources
+
+Try [available NPTEL translations](../shared/resources.md) and the [virtual-lab practice method](../shared/virtual-labs.md) when exploring subjects. Check prerequisites, language coverage and device support.

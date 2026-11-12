@@ -15,5 +15,10 @@ Start with [first-project guidance](../00-start-here/year-1-habits.md). Find the
 
 For Mechanical and Civil, use faculty-reviewed design or observation activities. A student exercise is not a certified engineering design. Each result should include assumptions, verification and limits.
 
+
+## Practise with accessible tools
+
+Use [virtual labs](../../shared/virtual-labs.md) for branch-related exercises, recording predictions and observations. For programs, document the [tested project environment](../../shared/project-environments.md).
+
 ---
 Source basis: Campus to Corporate blueprint, Version 4; adapted reading guidance.

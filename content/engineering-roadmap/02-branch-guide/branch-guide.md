@@ -33,5 +33,10 @@ CSE/IT students can explore software, systems, testing and security. AI/Data Sci
 
 Use current role descriptions and conversations with practitioners to choose depth. No pathway here guarantees a role.
 
+
+## Connect theory to simulation
+
+Choose a [virtual-lab activity](../../shared/virtual-labs.md) matching your subject. State assumptions and predictions before running it. Compare results and limitations; simulations complement supervised physical practice.
+
 ---
 Source basis: Campus to Corporate blueprint, Version 4. Adapted for this guide; additions and pathway suggestions require review.

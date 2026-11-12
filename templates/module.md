@@ -19,3 +19,8 @@ Reviewed by: Pending
 ## Checklist
 
 ## Sources and verification
+
+
+## Environment and verification record
+
+For runnable examples, state tool/interpreter and dependency versions, setup, checks actually run and known limitations. Link current official security guidance when relevant. Do not label unrun examples tested.

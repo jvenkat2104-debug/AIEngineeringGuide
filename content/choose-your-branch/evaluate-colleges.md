@@ -26,3 +26,8 @@ For a loan, get the lender's written terms covering interest, repayment start, t
 Before paying, read the current admission, withdrawal and refund terms. Keep copies of official documents and receipts. Verify entrance and counselling dates, eligibility, reservation and domicile requirements from official notices for your admission year.
 
 [Back to the guide](index.md) | [Already joined engineering? Start your roadmap](../engineering-roadmap/index.md)
+
+
+## Track scholarship deadlines
+
+Use the [scholarship checklist](../shared/scholarships.md) to separate student submission from institutional verification. Confirm eligibility, award and renewal terms before counting support in your budget.

@@ -17,3 +17,18 @@ Start with one question from a class or project. Check prerequisites, try a smal
 The blueprint also names government skill programmes, communities and role roadmaps. Their specific offerings should be verified before adding dated recommendations. Use current official notices for admissions and accreditation; learning resources are not admissions authorities.
 
 [Back to the roadmap](../engineering-roadmap/index.md) | [Choose your branch](../choose-your-branch/index.md)
+
+
+## Student support and practical access
+
+Official sources checked: 12 November 2026.
+
+- [Scholarship tracking](scholarships.md): eligibility and separate submission/verification deadlines.
+- [Virtual labs](virtual-labs.md): branch-wise activities and a learning method.
+- [Internship discovery](../engineering-roadmap/careers/finding-internships.md): compare work, mentoring, terms and deadlines.
+- [Project environments](project-environments.md): tested versions and a dated Python security note.
+
+
+## Regional-language learning
+
+Follow [NPTEL’s translated-content instructions](https://sites.google.com/nptel.iitm.ac.in/help-center-swayamnpteltrans/nptel): find a course, open **Transcripts**, select an available language tab and download lecture PDFs where offered. Check **Books** for translated books. Availability varies by course and language. Pair English syllabus terms with explanations in your preferred language. Checked 12 November 2026; interface details may change.

@@ -29,5 +29,10 @@ Can you explain the main idea without notes? Can someone follow your instruction
 
 [Return to the roadmap](../index.md)
 
+
+## Find practical experience
+
+Use the [internship discovery guide](../careers/finding-internships.md) to compare eligibility, work, mentoring, costs/stipend and deadlines. Keep a private application tracker.
+
 ---
 Source basis: Campus to Corporate blueprint, Version 4; adapted reading guidance.

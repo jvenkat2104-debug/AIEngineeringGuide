@@ -67,3 +67,10 @@ The chapters are readable **drafts**, not independently reviewed guidance. Mecha
 Read [CONTRIBUTING.md](CONTRIBUTING.md), use the [module template](templates/module.md), or propose a sourced correction through an issue. [Project plan](PROJECT_PLAN.md) records the broader scope. [Licensing: CC BY 4.0 for content; Apache 2.0 for code](LICENSE.md).
 
 The proposed web routes are `/choose-your-branch/` and `/engineering-roadmap/`. No separate reading website is deployed yet.
+
+
+## Student support: 12 November 2026
+
+[Scholarships](content/shared/scholarships.md) · [Virtual labs](content/shared/virtual-labs.md) · [Internships](content/engineering-roadmap/careers/finding-internships.md) · [Regional-language resources](content/shared/resources.md) · [Project environments](content/shared/project-environments.md)
+
+[Today’s review](reviews/2026-11-12.md) records sources, changes and verification limits.

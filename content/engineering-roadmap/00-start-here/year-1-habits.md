@@ -32,5 +32,10 @@ Mechanical and Civil examples are editorial additions requiring branch review. S
 
 A complete small result is more useful for reflection than a large unfinished tutorial copy.
 
+
+## Record your working environment
+
+Document tools and dependencies you actually tested. Use the [environment checklist](../../shared/project-environments.md), including the dated Python security guidance checked on 12 November 2026.
+
 ---
 Source basis: Campus to Corporate blueprint, Version 4. Adapted for this guide; additions and pathway suggestions require review.
