@@ -2,7 +2,7 @@
 .md-header__topic { font-weight: 650; }
 .md-typeset { line-height: 1.75; }
 .md-typeset h1 { font-weight: 750; color: var(--md-default-fg-color); letter-spacing: -.035em; }
-.guide-hero { padding: 2.4rem 0 1.5rem; max-width: 52rem; }
+.guide-hero { padding: .4rem 0 1rem; max-width: 52rem; }
 .guide-hero h1 { font-size: clamp(2rem, 4vw, 3.3rem); line-height: 1.13; margin: .7rem 0 1rem; }
 .guide-hero > p { font-size: 1.05rem; max-width: 42rem; }
 .guide-eyebrow { font-size: .66rem; font-weight: 750; letter-spacing: .15em; color: var(--md-accent-fg-color); }

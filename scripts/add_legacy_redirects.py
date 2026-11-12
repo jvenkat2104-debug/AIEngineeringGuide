@@ -47,3 +47,10 @@ for page in pages:
             alias = SITE / (prefix + legacy)
             alias.parent.mkdir(parents=True, exist_ok=True)
             alias.write_text('<!doctype html><meta charset="utf-8"><meta name="robots" content="noindex">' + f'<link rel="canonical" href="{canonical}"><meta http-equiv="refresh" content="0;url={canonical}">' + f'<script>location.replace({json.dumps(canonical)}+location.search+location.hash)</script><a href="{canonical}">Continue to the guide</a>', encoding="utf-8")
+
+# Consolidated branch overview: preserve the former page and its project-site alias.
+url = ORIGIN + "engineering-roadmap/branches/"
+for prefix in ["", "AIEngineeringGuide/"]:
+    alias = SITE / prefix / "engineering-roadmap/02-branch-guide/branch-guide/index.html"
+    alias.parent.mkdir(parents=True, exist_ok=True)
+    alias.write_text('<!doctype html><meta charset="utf-8"><meta name="robots" content="noindex">' + f'<link rel="canonical" href="{url}"><meta http-equiv="refresh" content="0;url={url}">' + f'<script>location.replace({json.dumps(url)}+location.search+location.hash)</script><a href="{url}">Open branch pathways</a>', encoding="utf-8")

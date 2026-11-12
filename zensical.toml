@@ -35,8 +35,7 @@ nav = [
 { "Overview" = "engineering-roadmap/branches/index.md" },
 { "Mechanical" = "engineering-roadmap/branches/mechanical.md" },
 { "Civil" = "engineering-roadmap/branches/civil.md" },
-{ "Electrical" = "engineering-roadmap/branches/electrical.md" },
-{ "Branch pathways: foundations to practice" = "engineering-roadmap/02-branch-guide/branch-guide.md" }
+{ "Electrical" = "engineering-roadmap/branches/electrical.md" }
 ] },
 { "Computing and Data" = [
 { "AI, Data and Career Pathways" = "engineering-roadmap/03-the-ai-impact/index.md" },

@@ -19,6 +19,10 @@ Plain-language guidance for students and families—from understanding engineeri
 
 </div>
 
+## Not sure where to start?
+
+Still choosing? Start with [your interests and a seven-day exploration](choose-your-branch/interests.md). Already enrolled? Open the [Year 1 roadmap](engineering-roadmap/year-1/README.md), or choose your current year from College Roadmap. Parents can begin with [questions to ask before choosing a college](choose-your-branch/for-parents.md).
+
 ## Where are you in your journey?
 
 <div class="grid cards" markdown="1">
