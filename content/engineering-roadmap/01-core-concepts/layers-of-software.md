@@ -1,5 +1,7 @@
 # The layers of software
 
+**Level: Intermediate** · Start with the Year 1 roadmap if these ideas are unfamiliar.
+
 Status: Draft | Independent review pending
 
 | Term | Meaning | Example |

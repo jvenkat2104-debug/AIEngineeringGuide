@@ -1,5 +1,7 @@
 # Understanding AI’s impact on engineering
 
+**Level: Intermediate** · Start with the Year 1 roadmap if these ideas are unfamiliar.
+
 Status: Draft | Independent review pending
 
 The blueprint discusses how AI can affect software, electronics, power and research. Treat these as questions to investigate rather than forecasts about job demand.

@@ -1,5 +1,7 @@
 # A practical development workflow
 
+**Level: Intermediate** · Start with the Year 1 roadmap if these ideas are unfamiliar.
+
 Status: Draft | Independent review pending
 
 1. Define the problem, expected inputs and limits before coding.

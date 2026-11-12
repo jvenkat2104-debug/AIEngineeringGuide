@@ -1,5 +1,7 @@
 # Architecture and system design
 
+**Level: Intermediate** · Start with the Year 1 roadmap if these ideas are unfamiliar.
+
 Status: Draft | Independent review pending
 
 **Architecture** describes the main parts of a system and their connections. **System design** includes the reasoning about capacity, reliability, cost, safety and failures that makes the arrangement suitable for its purpose. The terms overlap in practice.

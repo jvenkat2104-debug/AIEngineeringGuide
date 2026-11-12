@@ -1,5 +1,7 @@
 # Data roles explained
 
+**Level: Intermediate** · Start with the Year 1 roadmap if these ideas are unfamiliar.
+
 Status: Draft | Independent review pending
 
 Think of a water system: engineers construct the pipes, operators read the meters, and analysts investigate patterns. Data work also contains different responsibilities.

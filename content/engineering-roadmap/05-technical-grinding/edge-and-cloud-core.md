@@ -1,5 +1,7 @@
 # Edge and cloud: understand the data journey
 
+**Level: Intermediate** · Start with the Year 1 roadmap if these ideas are unfamiliar.
+
 Status: Draft | Independent review pending
 
 A cloud service runs on remotely managed infrastructure. An edge service places processing at a distributed network location closer to a user or device in some deployments. Whether it improves latency depends on the full request path and system design.

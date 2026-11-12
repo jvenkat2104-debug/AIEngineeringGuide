@@ -2,7 +2,7 @@
 site_name = "Engineering Guide for Indian Students"
 site_url = "https://jvenkat2104-debug.github.io/"
 site_description = "Choose your branch, make the most of engineering and prepare for your next step. A practical community guide for Indian students and families."
-site_author = "AIEngineeringGuide contributors"
+site_author = "Engineering Guide for Indian Students contributors"
 docs_dir = "tmp/web-docs"
 site_dir = "dist/site"
 repo_url = "https://github.com/jvenkat2104-debug/jvenkat2104-debug.github.io"
@@ -11,8 +11,9 @@ copyright = "Community draft · Content: CC BY 4.0 · Code: Apache 2.0"
 extra_css = ["assets/guide.css"]
 nav = [
 { "Home" = "index.md" },
-{ "Choose your branch" = [
+{ "Choose Engineering" = [
 { "Overview" = "choose-your-branch/index.md" },
+{ "Admissions and counselling" = "choose-your-branch/admissions-and-counselling.md" },
 { "For parents" = "choose-your-branch/for-parents.md" },
 { "Branch reality check" = "choose-your-branch/branch-reality-check.md" },
 { "Start with Your Interests" = "choose-your-branch/interests.md" },
@@ -24,12 +25,34 @@ nav = [
 { "Make Your Shortlist" = "choose-your-branch/shortlist.md" },
 { "After Joining and How to Contribute" = "choose-your-branch/after-joining-and-sources.md" }
 ] },
-{ "Engineering roadmap" = [
+{ "College Roadmap" = [
 { "Start the roadmap" = "engineering-roadmap/index.md" },
 { "Year 1" = "engineering-roadmap/year-1/index.md" },
 { "Year 2" = "engineering-roadmap/year-2/index.md" },
 { "Year 3" = "engineering-roadmap/year-3/index.md" },
 { "Year 4" = "engineering-roadmap/year-4/index.md" },
+{ "Branch pathways" = [
+{ "Overview" = "engineering-roadmap/branches/index.md" },
+{ "Mechanical" = "engineering-roadmap/branches/mechanical.md" },
+{ "Civil" = "engineering-roadmap/branches/civil.md" },
+{ "Electrical" = "engineering-roadmap/branches/electrical.md" },
+{ "Branch pathways: foundations to practice" = "engineering-roadmap/02-branch-guide/branch-guide.md" }
+] },
+{ "Computing and Data" = [
+{ "AI, Data and Career Pathways" = "engineering-roadmap/03-the-ai-impact/index.md" },
+{ "AI, ML and generative AI: what is the difference?" = "engineering-roadmap/03-the-ai-impact/ai-ml-and-generative-ai.md" },
+{ "Data Engineering and data integration" = "engineering-roadmap/03-the-ai-impact/data-engineering-and-integration.md" },
+{ "MLOps: operating a model beyond the notebook" = "engineering-roadmap/03-the-ai-impact/mlops-and-operating-ai.md" },
+{ "How AI can assist Data Engineering and integration" = "engineering-roadmap/03-the-ai-impact/ai-impact-on-data-work.md" },
+{ "Roles and realistic entry routes" = "engineering-roadmap/03-the-ai-impact/roles-and-entry-routes.md" },
+{ "Internships & fresher opportunities" = "engineering-roadmap/03-the-ai-impact/job-market-snapshot.md" },
+{ "Job-market evidence (reference)" = "engineering-roadmap/03-the-ai-impact/job-market-evidence.md" },
+{ "Student learning paths for AI and data" = "engineering-roadmap/03-the-ai-impact/student-learning-paths.md" },
+{ "Canteen project: from records to reliable predictions" = "engineering-roadmap/03-the-ai-impact/canteen-data-to-ai-project.md" },
+{ "Understanding AI\u00e2\u20ac\u2122s impact on engineering" = "engineering-roadmap/03-the-ai-impact/ai-advancements.md" },
+{ "A practical development workflow" = "engineering-roadmap/03-the-ai-impact/modern-developer-workflow.md" }
+] },
+{ "Technical deep dives" = [
 { "Start here" = [
 { "How an app works: from tap to database" = "engineering-roadmap/00-start-here/how-an-app-works.md" },
 { "What is engineering?" = "engineering-roadmap/00-start-here/what-is-engineering.md" },
@@ -41,22 +64,20 @@ nav = [
 { "Data Structures and Algorithms (DSA)" = "engineering-roadmap/01-core-concepts/data-structures-and-algorithms.md" },
 { "The layers of software" = "engineering-roadmap/01-core-concepts/layers-of-software.md" }
 ] },
-{ "Branch pathways" = [
-{ "Branch pathways: foundations to practice" = "engineering-roadmap/02-branch-guide/branch-guide.md" }
-] },
 { "Career exploration" = [
 { "Explore chip design and verification" = "engineering-roadmap/04-growth-careers/chip-design.md" },
 { "Explore electric-vehicle work" = "engineering-roadmap/04-growth-careers/ev.md" },
 { "Explore renewable-energy work" = "engineering-roadmap/04-growth-careers/renewable-energy.md" }
 ] },
 { "Practical tools" = [
-{ "Practical tools: Git, APIs and data formats" = "engineering-roadmap/05-technical-grinding/application-logic.md" },
-{ "Edge and cloud: understand the data journey" = "engineering-roadmap/05-technical-grinding/edge-and-cloud-core.md" }
+{ "Practical tools: Git, APIs and data formats" = "engineering-roadmap/tools/application-logic.md" },
+{ "Edge and cloud: understand the data journey" = "engineering-roadmap/tools/edge-and-cloud-core.md" }
 ] },
 { "Industry exposure" = [
-{ "Bengaluru: an industry-learning visit" = "engineering-roadmap/06-industry-tours/bengaluru.md" },
-{ "Chennai: an industry-learning visit" = "engineering-roadmap/06-industry-tours/chennai.md" },
-{ "Hyderabad: an industry-learning visit" = "engineering-roadmap/06-industry-tours/hyderabad.md" }
+{ "Bengaluru: an industry-learning visit" = "engineering-roadmap/industry-visits/bengaluru.md" },
+{ "Chennai: an industry-learning visit" = "engineering-roadmap/industry-visits/chennai.md" },
+{ "Hyderabad: an industry-learning visit" = "engineering-roadmap/industry-visits/hyderabad.md" }
+] }
 ] },
 { "Communication" = [
 { "Communication throughout engineering" = "engineering-roadmap/communication/communication-and-soft-skills.md" }
@@ -72,39 +93,22 @@ nav = [
 { "Find and evaluate an internship" = "engineering-roadmap/careers/finding-internships.md" }
 ] }
 ] },
-{ "AI & data" = [
-{ "AI, Data and Career Pathways" = "engineering-roadmap/03-the-ai-impact/index.md" },
-{ "AI, ML and generative AI: what is the difference?" = "engineering-roadmap/03-the-ai-impact/ai-ml-and-generative-ai.md" },
-{ "Data Engineering and data integration" = "engineering-roadmap/03-the-ai-impact/data-engineering-and-integration.md" },
-{ "MLOps: operating a model beyond the notebook" = "engineering-roadmap/03-the-ai-impact/mlops-and-operating-ai.md" },
-{ "How AI can assist Data Engineering and integration" = "engineering-roadmap/03-the-ai-impact/ai-impact-on-data-work.md" },
-{ "Roles and realistic entry routes" = "engineering-roadmap/03-the-ai-impact/roles-and-entry-routes.md" },
-{ "Internships & fresher opportunities" = "engineering-roadmap/03-the-ai-impact/job-market-snapshot.md" },
-{ "Job-market evidence (reference)" = "engineering-roadmap/03-the-ai-impact/job-market-evidence.md" },
-{ "Student learning paths for AI and data" = "engineering-roadmap/03-the-ai-impact/student-learning-paths.md" },
-{ "Canteen project: from records to reliable predictions" = "engineering-roadmap/03-the-ai-impact/canteen-data-to-ai-project.md" },
-{ "Understanding AI’s impact on engineering" = "engineering-roadmap/03-the-ai-impact/ai-advancements.md" },
-{ "A practical development workflow" = "engineering-roadmap/03-the-ai-impact/modern-developer-workflow.md" }
-] },
-{ "Student support" = [
+{ "Student Support" = [
 { "Shared learning support" = "shared/index.md" },
 { "Engineering glossary" = "shared/glossary.md" },
 { "Make your project reproducible" = "shared/project-environments.md" },
 { "Learning resources" = "shared/resources.md" },
 { "Find and track scholarships" = "shared/scholarships.md" },
-{ "Practise with virtual labs" = "shared/virtual-labs.md" }
+{ "Practise with virtual labs" = "shared/virtual-labs.md" },
+{ "Internships and fresher opportunities" = "engineering-roadmap/03-the-ai-impact/job-market-snapshot.md" }
 ] },
-{ "Downloads" = "downloads/index.md" },
-{ "About" = [
-{ "About this guide" = "about.md" },
-{ "Contribute" = "contribute.md" }
-] }
+{ "Downloads" = "downloads/index.md" }
 ]
 
 [project.theme]
 custom_dir = "site/overrides"
 language = "en"
-features = ["navigation.tabs", "navigation.sections", "navigation.indexes", "navigation.top", "search.highlight", "content.code.copy"]
+features = ["navigation.tabs", "navigation.indexes", "navigation.top", "search.highlight", "content.code.copy"]
 font = false
 
 [project.theme.palette]

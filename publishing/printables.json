@@ -1,0 +1,131 @@
+[
+  {
+    "slug": "parent-college-visit-checklist",
+    "title": "Parent College Visit Checklist",
+    "subtitle": "Collect evidence. Understand costs. Decide together.",
+    "sections": [
+      [
+        "Before the visit",
+        [
+          "Write the student's two or three branch interests and your practical budget.",
+          "Read the exact programme syllabus and current official admission notice."
+        ]
+      ],
+      [
+        "Ask for evidence",
+        [
+          "Who teaches core subjects, and how do students get help?",
+          "Can ordinary students use functioning labs, computers and the library?",
+          "What support exists for language, accessibility, wellbeing and grievances?",
+          "Ask current students independently about learning, travel and hostel conditions."
+        ]
+      ],
+      [
+        "Understand the cost and outcomes",
+        [
+          "Add tuition, compulsory fees, hostel/transport, food, learning access and travel.",
+          "Check scholarship award/renewal conditions; do not count unconfirmed support.",
+          "Read written withdrawal/refund terms and keep receipts.",
+          "For placement claims, ask the branch/year, unique students, denominator and roles."
+        ]
+      ],
+      [
+        "After the visit",
+        [
+          "Record the strongest evidence, the main trade-off and one unanswered question.",
+          "Compare at least two actual college-and-course options with the student."
+        ]
+      ]
+    ],
+    "fields": [
+      "College / exact degree:",
+      "Evidence still missing:",
+      "Next action / source to verify:"
+    ],
+    "route": "choose-your-branch/for-parents/"
+  },
+  {
+    "slug": "seven-day-branch-exploration",
+    "title": "Seven-Day Branch Exploration",
+    "subtitle": "Make a shortlist through small activities, not hype.",
+    "sections": [
+      [
+        "Day 1 - Start with questions",
+        [
+          "Write three problems you would like to understand or improve. Pick two or three branches to investigate."
+        ]
+      ],
+      [
+        "Days 2 to 4 - Try the work",
+        [
+          "Do one small activity per branch: paper, simulation or safe supervised work is enough.",
+          "Record what interested you and what was difficult; lack of access is not lack of ability."
+        ]
+      ],
+      [
+        "Day 5 - Compare actual subjects",
+        [
+          "Read the first two years of each shortlisted college syllabus. Look up unfamiliar terms."
+        ]
+      ],
+      [
+        "Day 6 - Talk to people",
+        [
+          "Ask a current student and practitioner what they study or do in an ordinary week."
+        ]
+      ],
+      [
+        "Day 7 - Reflect and compare",
+        [
+          "Would you spend another hour learning this? What evidence is still missing?",
+          "Compare costs, teaching/lab access and practical constraints with your family."
+        ]
+      ]
+    ],
+    "fields": [
+      "Branches I explored:",
+      "Activity I would like to continue:",
+      "My next question and who can help:"
+    ],
+    "route": "choose-your-branch/interests/"
+  },
+  {
+    "slug": "branch-comparison-worksheet",
+    "title": "Branch Comparison Worksheet",
+    "subtitle": "Compare actual options. Unknown means investigate.",
+    "sections": [
+      [
+        "Use evidence, not an automatic score",
+        [
+          "Try an activity, inspect the syllabus and collect teaching/lab evidence.",
+          "A serious cost or access constraint can outweigh several small advantages."
+        ]
+      ]
+    ],
+    "table": {
+      "headers": [
+        "Evidence",
+        "Option A",
+        "Option B",
+        "Option C"
+      ],
+      "rows": [
+        "Exact college + degree",
+        "Subjects I want to study",
+        "Activity tried + reaction",
+        "Teaching / lab evidence",
+        "Total estimated course cost",
+        "Verified financial support",
+        "Travel / accommodation",
+        "Student / graduate consulted",
+        "Important unanswered question"
+      ]
+    },
+    "fields": [
+      "My preference and reason:",
+      "Main trade-off I accept:",
+      "What I must verify before confirming:"
+    ],
+    "route": "choose-your-branch/shortlist/"
+  }
+]

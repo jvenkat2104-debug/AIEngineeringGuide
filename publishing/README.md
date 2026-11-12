@@ -25,3 +25,9 @@ Pushes to `main` build and deploy automatically. A manual run can set `deploy=fa
 ## Account-site migration
 
 The repository is `jvenkat2104-debug/jvenkat2104-debug.github.io`; the canonical site is https://jvenkat2104-debug.github.io/ . After building, `scripts/add_legacy_redirects.py` creates lightweight redirects for former `/AIEngineeringGuide/` HTML routes. They point to the corresponding root-site pages and preserve query strings and anchors when JavaScript is available. These are compatibility pages, not duplicate maintained content. The workspace folder may retain its original name.
+
+## One-page printables
+
+Edit `publishing/printables.json`, update the edition in `scripts/build_printables.py`, and run `python scripts/build_printables.py` with `requirements-printables.txt` installed. This generates the matching web pages and PDFs. Visually check all three one-page PDFs before committing the Markdown and `downloads/` copies. Local delivery copies go to ignored `output/pdf/`. CI regenerates the sheets before building the site.
+
+The site projection maps the historical tools and industry-tour source folders to clean public URLs. Compatibility pages preserve both the former paths and the old `/AIEngineeringGuide/` prefix.

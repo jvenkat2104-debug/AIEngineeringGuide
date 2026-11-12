@@ -16,6 +16,7 @@ def destination(source):
         return None
     if relative.name == "README.md":
         relative = relative.with_name("index.md")
+    relative = Path(relative.as_posix().replace("/05-technical-grinding/", "/tools/").replace("/06-industry-tours/", "/industry-visits/"))
     return OUT / relative
 
 def rewrite(source, text):

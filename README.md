@@ -70,7 +70,7 @@ The chapters are readable **drafts**, not independently reviewed guidance. Mecha
 
 Read [CONTRIBUTING.md](CONTRIBUTING.md), use the [module template](templates/module.md), or propose a sourced correction through an issue. [Project plan](PROJECT_PLAN.md) records the broader scope. [Licensing: CC BY 4.0 for content; Apache 2.0 for code](LICENSE.md).
 
-The website uses `/choose-your-branch/` and `/engineering-roadmap/` beneath the GitHub Pages project URL. It is built with free, open-source Zensical and published by GitHub Actions. See [publishing instructions](publishing/README.md).
+The website uses `/choose-your-branch/` and `/engineering-roadmap/` at the GitHub Pages account root. It is built with free, open-source Zensical and published by GitHub Actions. See [publishing instructions](publishing/README.md).
 
 
 ## Student support: 12 November 2026
@@ -83,3 +83,7 @@ The website uses `/choose-your-branch/` and `/engineering-roadmap/` beneath the 
 ## Internships and fresher opportunities
 
 The [checked opportunity page](https://jvenkat2104-debug.github.io/engineering-roadmap/03-the-ai-impact/job-market-snapshot/) now lists student/fresher application pointers. The original [market evidence](content/engineering-roadmap/03-the-ai-impact/job-market-evidence.md) remains a separate reference.
+
+## Navigation and printable update
+
+Five main navigation areas now include [admissions guidance](content/choose-your-branch/admissions-and-counselling.md), Mechanical/Civil/Electrical pathways and [three printable sheets](downloads/README.md). Technical material is grouped under College Roadmap. [Feedback](content/feedback.md) and a [review record](templates/review-record.md) support bounded independent reviews, which remain pending.

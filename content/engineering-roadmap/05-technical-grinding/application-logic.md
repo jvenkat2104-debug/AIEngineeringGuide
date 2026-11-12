@@ -1,5 +1,7 @@
 # Practical tools: Git, APIs and data formats
 
+**Level: Intermediate** · Start with the Year 1 roadmap if these ideas are unfamiliar.
+
 Status: Draft | Independent review pending
 
 These tools are especially relevant to software and connected-device projects. They are not universal hiring requirements for every engineering role.

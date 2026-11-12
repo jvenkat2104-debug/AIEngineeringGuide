@@ -13,6 +13,12 @@ Start at your year, then use the chapters to fill gaps and explore a branch. Lat
 | 3 | Choose depth, develop projects and prepare for internships | [Year 3](year-3/README.md) |
 | 4 | Demonstrate judgement and prepare for the next step | [Year 4](year-4/README.md) |
 
+## Choose a pathway
+
+[Computing & Data](03-the-ai-impact/index.md) · [Electronics foundations](02-branch-guide/branch-guide.md) · [Electrical/EEE](branches/electrical.md) · [Mechanical](branches/mechanical.md) · [Civil](branches/civil.md)
+
+Start with your year. Advanced software and operations material is optional and appears under Technical deep dives in the navigation.
+
 ## Read by chapter
 
 1. **Start here:** [Engineering mindset](00-start-here/what-is-engineering.md), [How an app works](00-start-here/how-an-app-works.md), [Year 1 habits](00-start-here/year-1-habits.md).

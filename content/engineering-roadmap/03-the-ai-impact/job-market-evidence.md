@@ -1,5 +1,7 @@
 # Job-market evidence: skills and experience reference
 
+**Level: Intermediate** · Start with the Year 1 roadmap if these ideas are unfamiliar.
+
 Status: Draft | Independent review pending
 Checked: **12 November 2026** | Next review target: 19 November 2026
 Scope: four readable employer role pages for India; an illustrative, deliberately selected sample, not an Indian job-market survey

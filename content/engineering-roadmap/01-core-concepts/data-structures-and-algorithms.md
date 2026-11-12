@@ -1,5 +1,7 @@
 # Data Structures and Algorithms (DSA)
 
+**Level: Intermediate** · Start with the Year 1 roadmap if these ideas are unfamiliar.
+
 Audience: students learning programming, especially computing and software-oriented pathways
 Year/level: begin in Year 1 after programming basics; develop depth in Years 2–3
 Status: Draft | Independent review pending

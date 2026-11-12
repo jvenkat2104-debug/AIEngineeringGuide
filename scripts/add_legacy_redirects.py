@@ -34,3 +34,16 @@ for page in pages:
     )
     count += 1
 print(f"Created {count} compatibility pages for former /AIEngineeringGuide/ URLs")
+
+# Preserve renamed paths both at the root and under the former project prefix.
+for page in pages:
+    relative = page.relative_to(SITE).as_posix()
+    for clean, old in [("/tools/", "/05-technical-grinding/"), ("/industry-visits/", "/06-industry-tours/")]:
+        if clean not in relative:
+            continue
+        canonical = ORIGIN + relative.removesuffix("index.html")
+        legacy = relative.replace(clean, old)
+        for prefix in ["", "AIEngineeringGuide/"]:
+            alias = SITE / (prefix + legacy)
+            alias.parent.mkdir(parents=True, exist_ok=True)
+            alias.write_text('<!doctype html><meta charset="utf-8"><meta name="robots" content="noindex">' + f'<link rel="canonical" href="{canonical}"><meta http-equiv="refresh" content="0;url={canonical}">' + f'<script>location.replace({json.dumps(canonical)}+location.search+location.hash)</script><a href="{canonical}">Continue to the guide</a>', encoding="utf-8")

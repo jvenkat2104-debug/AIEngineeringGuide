@@ -10,3 +10,8 @@ If you are still comparing degrees, use [Choose Your Engineering Branch](../../c
 
 ---
 Source basis: Campus to Corporate blueprint, Version 4; adapted reading guidance.
+
+
+## Explore next
+
+[Mechanical](mechanical.md) · [Civil](civil.md) · [Electrical/EEE](electrical.md)

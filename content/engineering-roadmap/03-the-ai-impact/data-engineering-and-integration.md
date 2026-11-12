@@ -1,5 +1,7 @@
 # Data Engineering and data integration
 
+**Level: Intermediate** · Start with the Year 1 roadmap if these ideas are unfamiliar.
+
 Audience: engineering students exploring software and data pathways
 Status: Draft | Independent review pending
 Last updated / sources checked: 12 November 2026

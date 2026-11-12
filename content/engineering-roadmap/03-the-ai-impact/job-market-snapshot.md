@@ -1,5 +1,7 @@
 # Internships & Fresher Opportunities
 
+**Level: Intermediate** · Start with the Year 1 roadmap if these ideas are unfamiliar.
+
 **Last checked: 12 November 2026** · Next review target: 19 November 2026
 
 A small, manually checked list for students and fresh graduates. **Accepting applications when checked** means the official role page and application entry were available on the date above. It is not a guarantee the employer is still accepting applicants now, that you meet every condition, or that selection is likely.

@@ -1,2 +1,9 @@
 {% extends "base.html" %}
 {% block announce %}Community draft Â· Independent review pending Â· Check official sources for current admissions and opportunities.{% endblock %}
+
+{% block footer %}
+{{ super() }}
+<div style="padding:1rem;text-align:center;font-size:.8rem">
+<a href="{{ 'about/' | url }}">About</a> · <a href="{{ 'feedback/' | url }}">Feedback and corrections</a> · <a href="{{ 'contribute/' | url }}">Contribute</a>
+</div>
+{% endblock %}

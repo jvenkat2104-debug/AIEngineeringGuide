@@ -61,6 +61,8 @@ Plain-language guidance for students and families—from understanding engineeri
 
 | Your question | A useful starting point |
 | --- | --- |
+| How does admission and counselling work? | [Understand the process](choose-your-branch/admissions-and-counselling.md) |
+| What can I print and share? | [Three one-page sheets](../downloads/README.md) |
 | What subjects might interest me? | [Seven-day exploration plan](choose-your-branch/interests.md) |
 | How do I compare colleges? | [College and cost checklist](choose-your-branch/evaluate-colleges.md) |
 | What should I do in first year? | [Year 1 roadmap](engineering-roadmap/year-1/README.md) |
@@ -71,7 +73,7 @@ Plain-language guidance for students and families—from understanding engineeri
 
 This is a community draft. Independent technical and student clarity reviews are pending. Dated opportunities and job examples are snapshots; check official sources before acting. There are no placement or salary guarantees.
 
-[About this guide](about.md) · [Help improve a page](contribute.md) · [Download the original PDF editions](../downloads/README.md)
+[About this guide](about.md) · [Help improve a page](contribute.md) · [Printable sheets and original PDFs](../downloads/README.md)
 
 
 ## Looking for your first opportunity?

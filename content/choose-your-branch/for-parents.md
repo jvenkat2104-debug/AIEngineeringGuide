@@ -52,3 +52,8 @@ A preferred branch, stronger learning environment, shorter commute and lower cos
 [Complete the shortlist worksheet](shortlist.md) | [Read the branch reality check](branch-reality-check.md)
 
 Source basis: adapted from the supplied branch-selection guide and its decision/cost worksheets. This page provides a discussion framework, not current admission rules or personalised financial advice.
+
+
+## Explore next
+
+[Admissions and counselling process](admissions-and-counselling.md)

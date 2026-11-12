@@ -44,3 +44,8 @@ Companion guide: [Your Engineering Roadmap](../engineering-roadmap/index.md), wi
 ## Read together
 
 [For parents](for-parents.md) · [Branch reality check](branch-reality-check.md)
+
+
+## Explore next
+
+[How admissions and counselling work](admissions-and-counselling.md)
