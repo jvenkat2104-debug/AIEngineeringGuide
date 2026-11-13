@@ -38,6 +38,14 @@ nav = [
 { "Electrical" = "engineering-roadmap/branches/electrical.md" }
 ] },
 { "Computing and Data" = [
+{ "Data Engineering: start here" = [
+{ "Beginner pathway" = "engineering-roadmap/data-engineering/index.md" },
+{ "Understand the role" = "engineering-roadmap/data-engineering/understand-the-role.md" },
+{ "Workspace and free tools" = "engineering-roadmap/data-engineering/workspace-and-free-tools.md" },
+{ "Meet the canteen data" = "engineering-roadmap/data-engineering/canteen-data.md" },
+{ "First SQL lab" = "engineering-roadmap/data-engineering/first-sql-lab.md" },
+{ "SQL solutions" = "engineering-roadmap/data-engineering/sql-solutions.md" }
+] },
 { "AI, Data and Career Pathways" = "engineering-roadmap/03-the-ai-impact/index.md" },
 { "AI, ML and generative AI: what is the difference?" = "engineering-roadmap/03-the-ai-impact/ai-ml-and-generative-ai.md" },
 { "Data Engineering and data integration" = "engineering-roadmap/03-the-ai-impact/data-engineering-and-integration.md" },

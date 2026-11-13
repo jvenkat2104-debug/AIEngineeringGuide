@@ -10,6 +10,10 @@ These one-page sheets are community drafts awaiting independent review. Print th
 
 The web and PDF versions above are generated together from `publishing/printables.json`. Check the website and official notices for current information.
 
+## Data Engineering starter kit
+
+[Download the canteen starter ZIP](canteen-starter.zip): synthetic CSVs, a standard-library Python/SQLite loader, SQL solutions and verification script. Start with the [beginner lessons](../content/engineering-roadmap/data-engineering/index.md). No paid tools or API keys are required.
+
 ## Licensing
 
 The [licensing policy](../LICENSE.md) applies: CC BY 4.0 for project-owned prose and original illustrations; Apache 2.0 for code. Third-party material retains its own terms.

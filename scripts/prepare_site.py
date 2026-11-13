@@ -55,6 +55,7 @@ def main():
         if source.name in historical:
             continue  # Preserve source editions in GitHub, outside the published site.
         shutil.copy2(source, OUT / "downloads" / source.name)
+    shutil.copy2(ROOT / "downloads" / "canteen-starter.zip", OUT / "downloads" / "canteen-starter.zip")
     shutil.copytree(ROOT / "site" / "assets", OUT / "assets", dirs_exist_ok=True)
     print(f"Prepared {len(sources)} Markdown pages and PDF downloads in {OUT}")
 

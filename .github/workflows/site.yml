@@ -23,6 +23,8 @@ jobs:
           python-version: '3.12'
       - run: pip install -r requirements-site.txt -r requirements-printables.txt
       - run: python scripts/build_printables.py
+      - run: python examples/canteen-starter/check_lab.py
+      - run: python scripts/package_canteen.py
       - run: python scripts/prepare_site.py
       - run: zensical build --clean
       - run: python scripts/add_legacy_redirects.py

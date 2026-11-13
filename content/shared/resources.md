@@ -37,3 +37,7 @@ Follow [NPTEL’s translated-content instructions](https://sites.google.com/npte
 ## AI and data foundations
 
 Use [AI, Data and Career Pathways](../engineering-roadmap/03-the-ai-impact/index.md) for a guided sequence and checked primary references. Start with prerequisites before advanced architecture tools; no paid platform is required for the core canteen exercise.
+
+## Start learning SQL and Python
+
+Use the [Data Engineering workspace and free tools](../engineering-roadmap/data-engineering/workspace-and-free-tools.md) for SQLBolt, official Python resources and an optional Colab route. The [beginner pathway](../engineering-roadmap/data-engineering/index.md) includes a downloadable synthetic dataset and checked SQL lab, with no paid tools required.

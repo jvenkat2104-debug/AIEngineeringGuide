@@ -1,0 +1,7 @@
+payment_id,order_id,amount_paise,status
+T1,O1,4000,settled
+T2,O2,5000,settled
+T3,O3,2000,settled
+T4,O4,6000,settled
+T5,O4,4000,pending
+T6,O5,3000,settled

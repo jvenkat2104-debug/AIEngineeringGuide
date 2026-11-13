@@ -8,6 +8,8 @@ Last updated / sources checked: 12 November 2026
 
 AI is one part of a working system. Students also need to understand the data entering it, the software around it and the people responsible when it fails. This section connects those responsibilities without treating every student as a future AI researcher.
 
+New to Data Engineering? Begin with the [hands-on beginner pathway](../data-engineering/index.md), including a synthetic dataset, free tools and SQL exercises.
+
 ## Read in this order
 
 | Chapter | What you will understand or produce |
