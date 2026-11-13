@@ -107,7 +107,7 @@ AI prompt: “Challenge my source-version contract. Give examples involving a la
 
 This lab receives a local change file and scans it on every run. It is **not** a database change-data-capture connector, a watermark-based incremental extractor or a distributed exactly-once guarantee. The local history is version history, not a full bitemporal/audited event system. It lacks source authorisation, arrival timestamps, deletion rules, schema evolution, concurrent processing and operational access controls. Missing intermediate versions are permitted because snapshots are complete; partial updates would need a different rule.
 
-Next planned topic: modelling clean reporting tables and reconciling metrics, followed by scheduling and operational visibility. These modules are not yet published.
+Next: [Reporting models and reconciliation](reporting-models-and-reconciliation.md), followed by incremental extraction, scheduling and recovery. These lessons are now available in the pathway.
 
 References checked 13 November 2026: [Python SQLite transactions and parameters](https://docs.python.org/3/library/sqlite3.html), [SQLite UPSERT semantics](https://sqlite.org/lang_upsert.html). Business rules here are explicit synthetic teaching assumptions.
 

@@ -13,3 +13,5 @@ output/
 
 # Local learning databases
 examples/canteen-starter/*.sqlite*
+
+examples/canteen-starter/*.log*

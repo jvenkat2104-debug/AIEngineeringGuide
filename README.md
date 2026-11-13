@@ -87,3 +87,7 @@ The [checked opportunity page](https://jvenkat2104-debug.github.io/engineering-r
 ## Navigation and printable update
 
 Five main navigation areas now include [admissions guidance](content/choose-your-branch/admissions-and-counselling.md), Mechanical/Civil/Electrical pathways and [three printable sheets](downloads/README.md). Technical material is grouped under College Roadmap. [Feedback](content/feedback.md) and a [review record](templates/review-record.md) support bounded independent reviews, which remain pending.
+
+## Beginner Data Engineering pathway
+
+The [learning pathway](content/engineering-roadmap/data-engineering/index.md) now includes SQL/Python, validation, persistent replay, source-versioned corrections, reporting/reconciliation, incremental checkpoints, local operations, recovery and a capstone. The downloadable starter is generated from `examples/canteen-starter/`; four automated check suites run during publication. The [implementation review](reviews/2026-11-13-data-engineering-operations.md) records assumptions and verification limits. Independent review remains pending.

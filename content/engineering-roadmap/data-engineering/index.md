@@ -16,6 +16,11 @@ Learn how business data becomes reliable information. Build pipelines step by st
 | 6 | [Python for pipelines](python-for-pipelines.md) | CSV reading, conversion and validation functions |
 | 7 | [Persistent Python pipeline lab](python-pipeline-lab.md) | Validated loads, quarantine, safe replay and failure checks |
 | 8 | [Corrections and late-arriving data](corrections-and-late-data.md) | Retained version history and a latest-state report |
+| 9 | [Reporting models and reconciliation](reporting-models-and-reconciliation.md) | Order-grain facts and checked daily totals |
+| 10 | [Incremental extraction and checkpoints](incremental-extraction.md) | Bounded source batches and atomic progress |
+| 11 | [Scheduling and observability](scheduling-and-observability.md) | Interpretable exit codes, logs and optional local scheduling |
+| 12 | [Recovery and runbook](recovery-and-runbook.md) | Failure/retry and a verified backup/restore exercise |
+| 13 | [Capstone and assessment](capstone-and-assessment.md) | Reproducible evidence and a learning portfolio |
 
 [Download the complete starter kit](../../../downloads/canteen-starter.zip): synthetic CSVs, Python loader, SQL solutions, README and checks. [Browse the source](../../../examples/canteen-starter/README.md).
 
@@ -37,8 +42,10 @@ If you are new to programming, repeat the setup and fundamentals days. Completio
 
 Ask: “Explain one concept using these synthetic rows, then ask me to predict the answer. Give hints before code.” For review: “What assumptions does my query make about one row? Give a counterexample.” Verify by running queries and checking totals manually. Do not paste private student, employer or customer data, credentials or connection strings into an AI service.
 
-## What comes next
+## Complete the beginner pathway
 
-The SQL starter rebuilds an in-memory database. The new Python pipeline lesson stores orders persistently and demonstrates validation, replay and transaction rollback. Continue with those lessons over several sessions; the next published session adds source-versioned corrections and late data. Later modules will cover incremental source extraction, modelling, scheduling, logging and operational recovery; those remain planned. None of these learning loaders is a production pipeline.
+The planned beginner lessons are now available through the capstone. The SQL lab, immutable pipeline, version-history lab and integrated workflow intentionally use different databases and demonstrate different policies. Follow each lesson's setup and expected totals. See the [capstone](capstone-and-assessment.md) for a flexible 12-week plan at two hours a day.
+
+The integrated workflow uses synthetic source events and fixed payment/product references. It is not a production pipeline, professional certification or guarantee of employment. Independent technical review remains pending. API, PostgreSQL, cloud and distributed-system extensions are optional future work, not required to complete this starter.
 
 [AI and data career pathways](../03-the-ai-impact/index.md) · [Feedback](../../feedback.md)

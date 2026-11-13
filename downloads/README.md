@@ -12,7 +12,7 @@ The web and PDF versions above are generated together from `publishing/printable
 
 ## Data Engineering starter kit
 
-[Download the canteen starter ZIP](canteen-starter.zip): synthetic CSVs, a standard-library Python/SQLite loader, SQL solutions and verification script. Start with the [beginner lessons](../content/engineering-roadmap/data-engineering/index.md). No paid tools or API keys are required.
+[Download the canteen starter ZIP](canteen-starter.zip): synthetic data, SQL exercises, standard-library Python/SQLite pipelines, incremental extraction, reporting models, backup tools and automated checks. Start with the [beginner lessons](../content/engineering-roadmap/data-engineering/index.md). No paid tools or API keys are required.
 
 ## Licensing
 

@@ -53,7 +53,12 @@ nav = [
 { "SQL solutions" = "engineering-roadmap/data-engineering/sql-solutions.md" },
 { "Python for pipelines" = "engineering-roadmap/data-engineering/python-for-pipelines.md" },
 { "Persistent Python pipeline lab" = "engineering-roadmap/data-engineering/python-pipeline-lab.md" },
-{ "Corrections and late data" = "engineering-roadmap/data-engineering/corrections-and-late-data.md" }
+{ "Corrections and late data" = "engineering-roadmap/data-engineering/corrections-and-late-data.md" },
+{ "Reporting models" = "engineering-roadmap/data-engineering/reporting-models-and-reconciliation.md" },
+{ "Incremental extraction" = "engineering-roadmap/data-engineering/incremental-extraction.md" },
+{ "Scheduling and observability" = "engineering-roadmap/data-engineering/scheduling-and-observability.md" },
+{ "Recovery and runbook" = "engineering-roadmap/data-engineering/recovery-and-runbook.md" },
+{ "Capstone and assessment" = "engineering-roadmap/data-engineering/capstone-and-assessment.md" }
 ] },
 { "AI, Data and Career Pathways" = "engineering-roadmap/03-the-ai-impact/index.md" },
 { "AI, ML and generative AI: what is the difference?" = "engineering-roadmap/03-the-ai-impact/ai-ml-and-generative-ai.md" },

@@ -21,3 +21,13 @@ Content/data: CC BY 4.0. Code: Apache 2.0. Repository licensing policy applies.
 ## Corrections and late data
 
 Run `python versioned_pipeline.py` twice using a new default `versions.sqlite`. First load: 7 advanced, 2 unchanged, 2 rejected; replay: 0 advanced, 9 unchanged, 2 rejected. Both finish with 6 current orders worth 33000 paise, 7 history versions and 2 quarantine records. Run `python check_versions.py` for disposable checks. This lab uses full snapshots and source-assigned per-order versions; it does not implement deletions, source extraction or payments. See the portal corrections lesson for assumptions and limits.
+
+## Complete integrated workflow
+
+Run `python seed_source.py`, then `python run_incremental.py`. Default files live beside the scripts: `source.sqlite`, `warehouse.sqlite`, `pipeline.log`. First load exits 2 after committing two rejected rows, checkpoint 11 and six current orders worth 33000 paise; replay exits 0 and extracts zero. Earlier quarantine remains unresolved. Run commands separately; do not treat exit 2 as an unhandled exception.
+
+`reporting.py` builds `dim_products`, order-grain `fact_orders` and `daily_report`. Settled amount is 20000 paise and outstanding is 13000 from fixed fixture payments. Those payment/product CSVs are re-read as references, not incrementally ingested. `--batch-size 4` reads bounded event batches; checkpoint, history, quarantine and reports commit together. Use `--fail-before-commit` for a deliberate failure drill against a new target. Use `--db NAME.sqlite` to keep experiments separate.
+
+`python check_operations.py` checks incremental batches, late data, report reconciliation, atomic checkpoint recovery, backup/restore, source identity, CLI exit codes and structured logs in disposable databases. The source must be append-only with committed visibility in sequence order. This is a teaching fixture, not a production CDC connector or distributed exactly-once guarantee.
+
+Consistent backup into an unused file: `python backup_lab.py --db warehouse.sqlite --out warehouse-backup.sqlite`. The helper refuses to overwrite existing backups. Practise restoring to another new filename and verify integrity, checkpoint and report totals. See portal lessons for the runbook, optional scheduling and capstone. No scheduler is installed by these scripts. Never publish real records, local databases or sensitive logs.

@@ -1,4 +1,5 @@
 """Learning lab: source-versioned full order snapshots, retained history and latest view."""
+from contextlib import nullcontext
 import argparse
 import csv
 import hashlib
@@ -28,14 +29,14 @@ def initialise(db):
       PRIMARY KEY(source_hash,record_number,reason));
     ''')
 
-def load(db,source,products):
+def load(db,source,products,transaction=True):
     payload=Path(source).read_bytes()
     digest=hashlib.sha256(payload).hexdigest()
     reader=csv.DictReader(io.StringIO(payload.decode('utf-8-sig'),newline=''),strict=True)
     if reader.fieldnames!=COLUMNS:
         raise ValueError('CSV header must exactly match: '+','.join(COLUMNS))
     counts={'advanced':0,'late_history':0,'unchanged':0,'rejected':0}
-    with db:
+    with (db if transaction else nullcontext()):
         for number,raw in enumerate(reader,start=1):
             reason=None
             try:
