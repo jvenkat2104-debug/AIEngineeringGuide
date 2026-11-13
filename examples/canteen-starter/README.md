@@ -31,3 +31,7 @@ Run `python seed_source.py`, then `python run_incremental.py`. Default files liv
 `python check_operations.py` checks incremental batches, late data, report reconciliation, atomic checkpoint recovery, backup/restore, source identity, CLI exit codes and structured logs in disposable databases. The source must be append-only with committed visibility in sequence order. This is a teaching fixture, not a production CDC connector or distributed exactly-once guarantee.
 
 Consistent backup into an unused file: `python backup_lab.py --db warehouse.sqlite --out warehouse-backup.sqlite`. The helper refuses to overwrite existing backups. Practise restoring to another new filename and verify integrity, checkpoint and report totals. See portal lessons for the runbook, optional scheduling and capstone. No scheduler is installed by these scripts. Never publish real records, local databases or sensitive logs.
+
+## Reporting worked scenarios
+
+`reporting-scenarios.sql` contains five reference reporting checks. `python check_reporting_scenarios.py` verifies totals and exception queries in disposable databases, including deliberate allocation errors, missing report dates, overpayments and missing product labels. The portal reporting-scenarios page includes sixteen fully explained questions and answers. This is now the fifth check suite in addition to the four core lab suites.

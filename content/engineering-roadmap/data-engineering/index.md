@@ -17,6 +17,7 @@ Learn how business data becomes reliable information. Build pipelines step by st
 | 7 | [Persistent Python pipeline lab](python-pipeline-lab.md) | Validated loads, quarantine, safe replay and failure checks |
 | 8 | [Corrections and late-arriving data](corrections-and-late-data.md) | Retained version history and a latest-state report |
 | 9 | [Reporting models and reconciliation](reporting-models-and-reconciliation.md) | Order-grain facts and checked daily totals |
+| 9a | [Reporting worked scenarios and answers](reporting-worked-scenarios.md) | Sixteen explained cases with SQL and automatic checks |
 | 10 | [Incremental extraction and checkpoints](incremental-extraction.md) | Bounded source batches and atomic progress |
 | 11 | [Scheduling and observability](scheduling-and-observability.md) | Interpretable exit codes, logs and optional local scheduling |
 | 12 | [Recovery and runbook](recovery-and-runbook.md) | Failure/retry and a verified backup/restore exercise |

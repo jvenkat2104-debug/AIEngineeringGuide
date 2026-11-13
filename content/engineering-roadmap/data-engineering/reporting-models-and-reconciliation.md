@@ -74,6 +74,10 @@ finally:
 
 Product ordered values should be Idli 10000, Meal 20000, Tea and snack 3000 paise. Explain why SUM over history would overstate current orders, and why distinct product names are not safe keys.
 
+## Worked scenarios with answers
+
+Read [Reporting scenarios: questions, answers and checks](reporting-worked-scenarios.md) for the complete session, including safe joins, missing payments, negative outstanding, mismatched totals and root-cause investigation. All answers are included, with executable SQL and an automated scenario check.
+
 ## Reconciliation and exercises
 
 `reporting.py` checks current-order count/value against `fact_orders` and the aggregated daily report, then checks ordered = settled + outstanding per order. These checks catch some transformation errors; they do not establish that a source price is true or that all expected payments arrived.

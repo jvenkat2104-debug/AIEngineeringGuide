@@ -55,6 +55,7 @@ nav = [
 { "Persistent Python pipeline lab" = "engineering-roadmap/data-engineering/python-pipeline-lab.md" },
 { "Corrections and late data" = "engineering-roadmap/data-engineering/corrections-and-late-data.md" },
 { "Reporting models" = "engineering-roadmap/data-engineering/reporting-models-and-reconciliation.md" },
+{ "Reporting scenarios and answers" = "engineering-roadmap/data-engineering/reporting-worked-scenarios.md" },
 { "Incremental extraction" = "engineering-roadmap/data-engineering/incremental-extraction.md" },
 { "Scheduling and observability" = "engineering-roadmap/data-engineering/scheduling-and-observability.md" },
 { "Recovery and runbook" = "engineering-roadmap/data-engineering/recovery-and-runbook.md" },
