@@ -29,3 +29,5 @@ Do not accept an unsuitable branch on the assumption that you can change it late
 If engineering itself feels uncertain, compare other routes such as BSc, BCA, diploma programmes or design based on your interests and their current admission requirements. A different qualification may have a different duration and progression route.
 
 [Back to the guide](index.md) | [Already joined engineering? Start your roadmap](../engineering-roadmap/index.md)
+
+For qualifications beyond a standard engineering bachelor's, read [Integrated degrees explained](integrated-degrees.md), [Mathematics and Computing](mathematics-and-computing-pathways.md), and [Physics and Quantum](physics-and-quantum-pathways.md).

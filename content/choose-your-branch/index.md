@@ -49,3 +49,14 @@ Companion guide: [Your Engineering Roadmap](../engineering-roadmap/index.md), wi
 ## Explore next
 
 [How admissions and counselling work](admissions-and-counselling.md)
+
+## Architecture, science and longer degree routes
+
+Engineering is one technical education route. Compare these related options by what you study and the qualification awarded:
+
+- [Architecture versus Civil Engineering](architecture-versus-civil.md)
+- [Integrated degrees explained](integrated-degrees.md)
+- [Mathematics and Computing pathways](mathematics-and-computing-pathways.md)
+- [Physics and Quantum Technology pathways](physics-and-quantum-pathways.md)
+
+Each guide includes a small set of dated official examples, practical exploration and questions to verify before applying. These are not college rankings or open-admission lists.

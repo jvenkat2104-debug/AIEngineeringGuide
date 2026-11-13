@@ -57,3 +57,7 @@ Choose a [virtual-lab activity](../../shared/virtual-labs.md) matching your subj
 
 ---
 Source basis: Campus to Corporate blueprint, Version 4. Adapted for this guide; additions and pathway suggestions require review.
+
+## Related study routes
+
+Explore [Mathematics and Computing](../../choose-your-branch/mathematics-and-computing-pathways.md), [Physics and Quantum Technology](../../choose-your-branch/physics-and-quantum-pathways.md), and [integrated degrees](../../choose-your-branch/integrated-degrees.md). Architecture has its own route: [compare it with Civil Engineering](../../choose-your-branch/architecture-versus-civil.md).

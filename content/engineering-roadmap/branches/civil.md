@@ -57,3 +57,5 @@ Separate work you performed from tutorial steps or team members’ contributions
 Source basis: introductory topics from the supplied branch-selection guide and editorial learning activities. Validate against [NPTEL subject material](https://nptel.ac.in/) and your own curriculum. A named branch review has not yet been obtained.
 
 [Year-wise roadmap](../index.md) · [Compare branch foundations](../02-branch-guide/branch-guide.md) · [Student opportunities](../03-the-ai-impact/job-market-snapshot.md)
+
+Considering building design as well as infrastructure? Read [Architecture versus Civil Engineering](../../choose-your-branch/architecture-versus-civil.md).

@@ -52,3 +52,7 @@ Record route, official source, date checked, exam registration, counselling regi
 NTA, JEE Advanced, CSAB, APSCHE and Maharashtra pages were readable during this review. Direct checks of JoSAA, TG counselling and KEA timed out in the research tool; their addresses are supplied as official starting points, not evidence of live registration. No current cutoffs, fees, reimbursement eligibility or open admission window is asserted here.
 
 [For parents](for-parents.md) · [College comparison](evaluate-colleges.md) · [Make your shortlist](shortlist.md)
+
+## Related admission routes
+
+Architecture and science programmes can have different requirements from engineering. See [Architecture versus Civil](architecture-versus-civil.md) and [Integrated degrees explained](integrated-degrees.md); verify the current notice for the exact programme.

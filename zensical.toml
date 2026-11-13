@@ -20,6 +20,12 @@ nav = [
 { "Computing and Data Branches" = "choose-your-branch/computing-and-data.md" },
 { "Electronics and Electrical Branches" = "choose-your-branch/electronics-and-electrical.md" },
 { "Mechanical and Civil Branches" = "choose-your-branch/mechanical-and-civil.md" },
+{ "Architecture, Science and Integrated Degrees" = [
+{ "Architecture versus Civil Engineering" = "choose-your-branch/architecture-versus-civil.md" },
+{ "Integrated degrees explained" = "choose-your-branch/integrated-degrees.md" },
+{ "Mathematics and Computing" = "choose-your-branch/mathematics-and-computing-pathways.md" },
+{ "Physics and Quantum Technology" = "choose-your-branch/physics-and-quantum-pathways.md" }
+] },
 { "Compare the Actual Degree" = "choose-your-branch/compare-degrees.md" },
 { "Evaluate the College and the Cost" = "choose-your-branch/evaluate-colleges.md" },
 { "Make Your Shortlist" = "choose-your-branch/shortlist.md" },
