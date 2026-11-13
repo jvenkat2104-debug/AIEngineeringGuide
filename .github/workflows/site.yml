@@ -25,6 +25,7 @@ jobs:
       - run: python scripts/build_printables.py
       - run: python examples/canteen-starter/check_lab.py
       - run: python examples/canteen-starter/check_pipeline.py
+      - run: python examples/canteen-starter/check_versions.py
       - run: python scripts/package_canteen.py
       - run: python scripts/prepare_site.py
       - run: zensical build --clean

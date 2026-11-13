@@ -17,3 +17,7 @@ Content/data: CC BY 4.0. Code: Apache 2.0. Repository licensing policy applies.
 ## Persistent pipeline lab
 
 `python pipeline.py` loads orders into `pipeline.sqlite` beside the script. Repeat it, then run `python pipeline.py --input orders-with-errors.csv` twice. Expected stored totals: 5 orders/24000 paise before the error batch; 6/28000 after it, with 6 quarantine records. Existing IDs with changed values are quarantined; they are not overwritten. `python check_pipeline.py` verifies replay and rollback behaviour in disposable databases. See the portal's Python pipeline lesson for full instructions and limitations. Payments remain in the original SQL lab only. Use a new `--db` filename for a separate experiment.
+
+## Corrections and late data
+
+Run `python versioned_pipeline.py` twice using a new default `versions.sqlite`. First load: 7 advanced, 2 unchanged, 2 rejected; replay: 0 advanced, 9 unchanged, 2 rejected. Both finish with 6 current orders worth 33000 paise, 7 history versions and 2 quarantine records. Run `python check_versions.py` for disposable checks. This lab uses full snapshots and source-assigned per-order versions; it does not implement deletions, source extraction or payments. See the portal corrections lesson for assumptions and limits.

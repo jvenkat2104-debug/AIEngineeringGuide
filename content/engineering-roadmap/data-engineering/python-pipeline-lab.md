@@ -88,3 +88,5 @@ This loader reads the whole small file into memory, has no concurrent-writer des
 Source references checked 13 November 2026: [CSV parsing](https://docs.python.org/3/library/csv.html), [date validation](https://docs.python.org/3/library/datetime.html#datetime.date.fromisoformat), and [SQLite transactions/parameters](https://docs.python.org/3/library/sqlite3.html).
 
 [Return to pathway](index.md) · [Feedback and corrections](../../feedback.md)
+
+Next session: [Corrections and late-arriving data](corrections-and-late-data.md). It introduces a separate version-history database without changing this immutable-order lesson.

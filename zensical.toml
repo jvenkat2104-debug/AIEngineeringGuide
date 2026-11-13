@@ -52,7 +52,8 @@ nav = [
 { "First SQL lab" = "engineering-roadmap/data-engineering/first-sql-lab.md" },
 { "SQL solutions" = "engineering-roadmap/data-engineering/sql-solutions.md" },
 { "Python for pipelines" = "engineering-roadmap/data-engineering/python-for-pipelines.md" },
-{ "Persistent Python pipeline lab" = "engineering-roadmap/data-engineering/python-pipeline-lab.md" }
+{ "Persistent Python pipeline lab" = "engineering-roadmap/data-engineering/python-pipeline-lab.md" },
+{ "Corrections and late data" = "engineering-roadmap/data-engineering/corrections-and-late-data.md" }
 ] },
 { "AI, Data and Career Pathways" = "engineering-roadmap/03-the-ai-impact/index.md" },
 { "AI, ML and generative AI: what is the difference?" = "engineering-roadmap/03-the-ai-impact/ai-ml-and-generative-ai.md" },
