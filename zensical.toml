@@ -50,7 +50,9 @@ nav = [
 { "Workspace and free tools" = "engineering-roadmap/data-engineering/workspace-and-free-tools.md" },
 { "Meet the canteen data" = "engineering-roadmap/data-engineering/canteen-data.md" },
 { "First SQL lab" = "engineering-roadmap/data-engineering/first-sql-lab.md" },
-{ "SQL solutions" = "engineering-roadmap/data-engineering/sql-solutions.md" }
+{ "SQL solutions" = "engineering-roadmap/data-engineering/sql-solutions.md" },
+{ "Python for pipelines" = "engineering-roadmap/data-engineering/python-for-pipelines.md" },
+{ "Persistent Python pipeline lab" = "engineering-roadmap/data-engineering/python-pipeline-lab.md" }
 ] },
 { "AI, Data and Career Pathways" = "engineering-roadmap/03-the-ai-impact/index.md" },
 { "AI, ML and generative AI: what is the difference?" = "engineering-roadmap/03-the-ai-impact/ai-ml-and-generative-ai.md" },

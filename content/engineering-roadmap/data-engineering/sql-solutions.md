@@ -64,3 +64,5 @@ Why is SUM(DISTINCT order value) unreliable? O2 and another different order coul
 The loader rebuilds the database in memory. A future persistent pipeline needs explicit rules for retries, corrected records and incremental processing. Do not describe this starter as production-ready or as a complete Data Engineering course.
 
 [Return to pathway](index.md) · [Report a correction](../../feedback.md)
+
+Next: [Python for pipelines](python-for-pipelines.md), then [the persistent pipeline lab](python-pipeline-lab.md).

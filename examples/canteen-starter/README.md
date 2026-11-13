@@ -13,3 +13,7 @@ Each run creates a fresh in-memory database; it does not demonstrate persistent 
 
 Lessons: https://jvenkat2104-debug.github.io/engineering-roadmap/data-engineering/
 Content/data: CC BY 4.0. Code: Apache 2.0. Repository licensing policy applies.
+
+## Persistent pipeline lab
+
+`python pipeline.py` loads orders into `pipeline.sqlite` beside the script. Repeat it, then run `python pipeline.py --input orders-with-errors.csv` twice. Expected stored totals: 5 orders/24000 paise before the error batch; 6/28000 after it, with 6 quarantine records. Existing IDs with changed values are quarantined; they are not overwritten. `python check_pipeline.py` verifies replay and rollback behaviour in disposable databases. See the portal's Python pipeline lesson for full instructions and limitations. Payments remain in the original SQL lab only. Use a new `--db` filename for a separate experiment.

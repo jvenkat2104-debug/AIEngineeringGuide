@@ -13,6 +13,8 @@ Learn how business data becomes reliable information. Build pipelines step by st
 | 3 | [Meet the canteen data](canteen-data.md) | A data dictionary and predictions |
 | 4 | [First SQL lab](first-sql-lab.md) | Five queries with checked business answers |
 | 5 | [Answers and explanations](sql-solutions.md) | An explanation of a payment mismatch and join error |
+| 6 | [Python for pipelines](python-for-pipelines.md) | CSV reading, conversion and validation functions |
+| 7 | [Persistent Python pipeline lab](python-pipeline-lab.md) | Validated loads, quarantine, safe replay and failure checks |
 
 [Download the complete starter kit](../../../downloads/canteen-starter.zip): synthetic CSVs, Python loader, SQL solutions, README and checks. [Browse the source](../../../examples/canteen-starter/README.md).
 
@@ -36,6 +38,6 @@ Ask: “Explain one concept using these synthetic rows, then ask me to predict t
 
 ## What comes next
 
-Later lessons will cover Python validation, persistent reruns, incremental loads, modelling, scheduling, logs and recovery. These are planned topics, not completed modules. The current loader intentionally rebuilds an in-memory database; it is not a production pipeline.
+The SQL starter rebuilds an in-memory database. The new Python pipeline lesson stores orders persistently and demonstrates validation, replay and transaction rollback. Continue with those lessons over several sessions; later modules will cover corrections/incremental source tracking, modelling, scheduling, logging and operational recovery. Those later modules are planned, not completed. Neither starter is a production pipeline.
 
 [AI and data career pathways](../03-the-ai-impact/index.md) · [Feedback](../../feedback.md)
